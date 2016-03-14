@@ -11,7 +11,7 @@ public class App {
 
     public static void main(String[] args) throws URISyntaxException {
         String filename = "data/business.list";
-        String output = "movies.csv";
+        String output = "output/movies.csv";
         File file = Paths.get(ClassLoader.getSystemResource(filename).toURI()).toFile();
 
         BusinessParser bp = new BusinessParser(file);
@@ -25,8 +25,6 @@ public class App {
         System.out.println("Writing to file: " + output);
         CSVWriter cw = new CSVWriter();
         cw.write(output, map);
-
-
     }
 
 }
