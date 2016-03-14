@@ -17,7 +17,7 @@ public class BusinessParser {
         map = new HashMap<>();
     }
 
-    public Map<String, Movie> run() {
+    public Map<String, Movie> getMovieMap() {
         BufferedReader br = null;
 
         try {
@@ -37,7 +37,7 @@ public class BusinessParser {
                 if (line.startsWith("MV")) {
                     if (!line.contains("TV")) {
                         year = parseYear(line);
-                        if (year > 2000) {
+                        if (year >= 2010) {
                             hasMV = true;
                             title = parseTitle(line);
                         }
@@ -71,8 +71,6 @@ public class BusinessParser {
 
             }
 
-
-
         } catch (FileNotFoundException e) {
             e.printStackTrace();
         } catch (IOException e) {
@@ -88,7 +86,6 @@ public class BusinessParser {
             }
             return map;
         }
-
 
     }
     public void printMap(Map<String, Movie> map){

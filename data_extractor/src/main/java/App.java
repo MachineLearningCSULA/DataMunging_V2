@@ -10,23 +10,23 @@ public class App {
 
 
     public static void main(String[] args) throws URISyntaxException {
-
         String filename = "data/business.list";
         String output = "movies.csv";
-
         File file = Paths.get(ClassLoader.getSystemResource(filename).toURI()).toFile();
 
         BusinessParser bp = new BusinessParser(file);
-
         System.out.println("Parsing datafile: " + filename);
-        Map<String, Movie> map = bp.run();
+        Map<String, Movie> map = bp.getMovieMap();
 
+        System.out.println("Accumulating data from OMDB API");
+        OmdbParser op = new OmdbParser(map);
+        map = op.getDataFromOmdbApi();
 
         System.out.println("Writing to file: " + output);
         CSVWriter cw = new CSVWriter();
-
         cw.write(output, map);
 
 
     }
+
 }
