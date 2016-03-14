@@ -24,6 +24,9 @@ var/
 .installed.cfg
 *.egg
 
+# data files
+data_extractor/src/main/resources/data/
+
 # PyInstaller
 #  Usually these files are written by a python script from a template
 #  before PyInstaller builds the exe, so as to inject date/other infos into it.
@@ -60,3 +63,4 @@ target/
 
 #Ipython Notebook
 .ipynb_checkpoints
+
