@@ -24,10 +24,10 @@ for film in films:
     SEARCH_TERM = film[1] + " movie"
     print("We're on film: " + film[1])
 
-    CONSUMER_KEY = 'XEQ5mzqqB8YjePzOD1ngTx4ky'
-    CONSUMER_SECRET = 'BiQRkI13aMwBqmJUosji4Zu7KoHLNaE6aCw6Dasy45zAH1FeXJ'
-    ACCESS_TOKEN_KEY = '126067584-uOjRP0NsUXiiQ1LfZFEqhhjNLXTOjyApfxXwv68o'
-    ACCESS_TOKEN_SECRET = 'IdM0ZJYpHBkXRbtLWRzRoO9n3d8Z9OCp173N00Dk92RKq'
+    CONSUMER_KEY = ''
+    CONSUMER_SECRET = ''
+    ACCESS_TOKEN_KEY = ''
+    ACCESS_TOKEN_SECRET = ''
 
     api = TwitterAPI(CONSUMER_KEY,
                      CONSUMER_SECRET,
