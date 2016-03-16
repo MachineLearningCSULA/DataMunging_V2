@@ -1,3 +1,5 @@
+'''
+
 import csv
 import re
 from textblob import TextBlob
@@ -74,3 +76,5 @@ with open("movies.csv", "rb") as f:
         movieID = row[0]
         row.append(scores[movieID])
         writer.writerow(row)
+
+'''

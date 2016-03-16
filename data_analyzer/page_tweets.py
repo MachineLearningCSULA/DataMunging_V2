@@ -1,3 +1,5 @@
+'''
+
 from TwitterAPI import TwitterAPI, TwitterRestPager
 import csv
 import time
@@ -59,3 +61,4 @@ for film in films:
     #         for sentence in value.sentences:
     #             print(sentence.sentiment.polarity)
 
+'''
