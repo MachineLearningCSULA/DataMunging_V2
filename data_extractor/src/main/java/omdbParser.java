@@ -96,6 +96,14 @@ public class OmdbParser {
         }
 
     }
+
+    private String parseVotes(String votes){
+        if (containsNA(votes)) return votes;
+        else {
+            return votes.replaceAll("," , "");
+        }
+    }
+
     private String parseDirector(String director){
         if (containsNA(director)) return director;
         String[] array = director.split(",");

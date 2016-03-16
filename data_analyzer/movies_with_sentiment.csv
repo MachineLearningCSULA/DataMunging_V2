@@ -1,149 +1,149 @@
 id,title,year,released_month,genre,rated,runtime,language,director,writer,main_actor,metascore,rating,votes,budget,gross,sentiment
 1,Danny Collins,2015,Apr,Comedy,R,106,English,Dan Fogelman,Dan Fogelman,Al Pacino,58,71,18347,10000000,5348317,39.0
-2,Project Almanac,2015,Jan,Sci-Fi,PG-13,106,English,Dean Israelite,Jason Pagan,Jonny Weston,47,64,52591,12000000,22331028,25.0
-3,Fifty Shades of Grey,2015,Feb,Drama,R,125,English,Sam Taylor-Johnson,Kelly Marcel,Dakota Johnson,46,41,"209,678",40000000,166167230,6.0
+2,Project Almanac,2015,Jan,Sci-Fi,PG-13,106,English,Dean Israelite,Jason Pagan,Jonny Weston,47,64,52591,12000000,22331028,23.0
+3,Fifty Shades of Grey,2015,Feb,Drama,R,125,English,Sam Taylor-Johnson,Kelly Marcel,Dakota Johnson,46,41,"209,678",40000000,166167230,8.0
 4,Blackhat,2015,Jan,Action,R,133,English,Michael Mann,Morgan Davis Foehl,Chris Hemsworth,51,54,35637,70000000,7097125,17.0
-5,Stonewall,2015,Sep,Drama,R,129,English,Roland Emmerich,Jon Robin Baitz,Joey King,30,41,1176,13500000,186354,17.0
-6,How to Be Single,2016,Feb,Comedy,R,110,English,Christian Ditter,Abby Kohn,Dakota Johnson,51,63,5292,38000000,18750000,6.0
+5,Stonewall,2015,Sep,Drama,R,129,English,Roland Emmerich,Jon Robin Baitz,Joey King,30,41,1176,13500000,186354,19.0
+6,How to Be Single,2016,Feb,Comedy,R,110,English,Christian Ditter,Abby Kohn,Dakota Johnson,51,63,5292,38000000,18750000,5.0
 7,Jupiter Ascending,2015,Feb,Action,PG-13,127,English,"Andy Wachowski, Lana Wachowski",Andy Wachowski,Mila Kunis,40,54,129577,176000000,47387723,8.0
-8,The Gallows,2015,Jul,Horror,R,81,English,"Travis Cluff, Chris Lofing",Travis Cluff,Reese Mishler,30,43,11177,100000,22757819,-15.0
-9,Shaun the Sheep Movie,2015,Aug,Animation,PG,85,N/A,"Mark Burton, Richard Starzak",Mark Burton,Justin Fletcher,81,74,"20,038",25000000,19321230,30.0
-10,Final Girl,2015,Aug,Action,R,90,English,Tyler Shields,Adam Prince,Abigail Breslin,N/A,46,5533,8000000,5500000,15.0
-11,"Hail, Caesar!",2016,Feb,Comedy,PG-13,106,English,"Ethan Coen, Joel Coen",Joel Coen,Josh Brolin,72,70,6449,22000000,21354970,28.0
+8,The Gallows,2015,Jul,Horror,R,81,English,"Travis Cluff, Chris Lofing",Travis Cluff,Reese Mishler,30,43,11177,100000,22757819,-14.0
+9,Shaun the Sheep Movie,2015,Aug,Animation,PG,85,N/A,"Mark Burton, Richard Starzak",Mark Burton,Justin Fletcher,81,74,"20,038",25000000,19321230,31.0
+10,Final Girl,2015,Aug,Action,R,90,English,Tyler Shields,Adam Prince,Abigail Breslin,N/A,46,5533,8000000,5500000,13.0
+11,"Hail, Caesar!",2016,Feb,Comedy,PG-13,106,English,"Ethan Coen, Joel Coen",Joel Coen,Josh Brolin,72,70,6449,22000000,21354970,29.0
 12,Black Mass,2015,Sep,Biography,R,123,English,Scott Cooper,Mark Mallouk,Johnny Depp,68,70,86586,65000000,62563543,14.0
 13,Maze Runner: The Scorch Trials,2015,Sep,Action,PG-13,132,English,Wes Ball,T.S. Nowlin,Dylan O'Brien,43,64,111679,61000000,81687587,19.0
-14,The Gift,2015,Aug,Mystery,R,108,English,Joel Edgerton,Joel Edgerton,Jason Bateman,77,71,64793,5000000,43771291,48.0
-15,Run All Night,2015,Mar,Action,R,114,English,Jaume Collet-Serra,Brad Ingelsby,Liam Neeson,59,66,68905,50000000,26442251,44.0
+14,The Gift,2015,Aug,Mystery,R,108,English,Joel Edgerton,Joel Edgerton,Jason Bateman,77,71,64793,5000000,43771291,45.0
+15,Run All Night,2015,Mar,Action,R,114,English,Jaume Collet-Serra,Brad Ingelsby,Liam Neeson,59,66,68905,50000000,26442251,45.0
 16,Inside Out,2015,Jun,Animation,PG,95,English,"Pete Docter, Ronnie Del Carmen",Pete Docter,Amy Poehler,94,83,267253,175000000,356454367,29.0
-17,Phantom,2015,Mar,History,R,98,English,Todd Robinson,Todd Robinson,Ed Harris,40,58,11286,7500000,207921,25.0
+17,Phantom,2015,Mar,History,R,98,English,Todd Robinson,Todd Robinson,Ed Harris,40,58,11286,7500000,207921,18.0
 18,Paranormal Activity: The Ghost Dimension,2015,Oct,Horror,R,88,English,Gregory Plotkin,Jason Pagan,Chris J. Murray,30,45,11713,10000000,18247445,-12.0
-19,Rock the Kasbah,2015,Oct,Comedy,R,106,English,Barry Levinson,Mitch Glazer,Bill Murray,29,55,2844,15000000,2982281,27.0
-20,San Andreas,2015,May,Action,PG-13,114,English,Brad Peyton,Carlton Cuse,Dwayne Johnson,43,61,127213,110000000,155181732,15.0
-21,The Peanuts Movie,2015,Nov,Animation,G,88,English,Steve Martino,Bryan Schulz,Trombone Shorty,67,73,18928,99000000,129984193,24.0
+19,Rock the Kasbah,2015,Oct,Comedy,R,106,English,Barry Levinson,Mitch Glazer,Bill Murray,29,55,2844,15000000,2982281,26.0
+20,San Andreas,2015,May,Action,PG-13,114,English,Brad Peyton,Carlton Cuse,Dwayne Johnson,43,61,127213,110000000,155181732,12.0
+21,The Peanuts Movie,2015,Nov,Animation,G,88,English,Steve Martino,Bryan Schulz,Trombone Shorty,67,73,18928,99000000,129984193,22.0
 22,Anomalisa,2015,Jan,Animation,R,90,English,"Duke Johnson, Charlie Kaufman",Charlie Kaufman,David Thewlis,88,75,15639,8000000,2233178,-1.0
-23,Trainwreck,2015,Jul,Comedy,R,125,English,Judd Apatow,Amy Schumer,Colin Quinn,75,64,76603,35000000,110008260,5.0
+23,Trainwreck,2015,Jul,Comedy,R,125,English,Judd Apatow,Amy Schumer,Colin Quinn,75,64,76603,35000000,110008260,2.0
 24,The Revenant,2015,Jan,Adventure,R,156,English,Alejandro González Iñárritu,Mark L. Smith,Leonardo DiCaprio,76,82,224187,135000000,159164599,21.0
 25,The DUFF,2015,Feb,Comedy,PG-13,101,English,Ari Sandel,Josh A. Cagan,Mae Whitman,56,66,"45,821",8500000,34017854,36.0
-26,Fifty Shades of Black,2016,Jan,Comedy,R,92,English,Michael Tiddes,Marlon Wayans,Marlon Wayans,28,34,"3,035",5500000,9371544,-1.0
-27,Tomorrow,2016,Sep,Drama,PG,103,English,Joseph Anthony,William Faulkner,Robert Duvall,N/A,78,753,2000,1447,35.0
-28,Creed,2015,Nov,Drama,PG-13,133,English,Ryan Coogler,Ryan Coogler,Michael B. Jordan,82,78,"97,797",35000000,108988796,32.0
-29,The SpongeBob Movie: Sponge Out of Water,2015,Feb,Animation,PG,92,English,"Paul Tibbitt, Mike Mitchell",Glenn Berger,Antonio Banderas,62,60,"31,734",74000000,162495848,46.0
-30,Minions,2015,Jul,Animation,PG,91,English,"Kyle Balda, Pierre Coffin",Brian Lynch,Sandra Bullock,56,65,124840,74000000,336045770,20.0
+26,Fifty Shades of Black,2016,Jan,Comedy,R,92,English,Michael Tiddes,Marlon Wayans,Marlon Wayans,28,34,"3,035",5500000,9371544,-2.0
+27,Tomorrow,2016,Sep,Drama,PG,103,English,Joseph Anthony,William Faulkner,Robert Duvall,N/A,78,753,2000,1447,19.0
+28,Creed,2015,Nov,Drama,PG-13,133,English,Ryan Coogler,Ryan Coogler,Michael B. Jordan,82,78,"97,797",35000000,108988796,37.0
+29,The SpongeBob Movie: Sponge Out of Water,2015,Feb,Animation,PG,92,English,"Paul Tibbitt, Mike Mitchell",Glenn Berger,Antonio Banderas,62,60,"31,734",74000000,162495848,39.0
+30,Minions,2015,Jul,Animation,PG,91,English,"Kyle Balda, Pierre Coffin",Brian Lynch,Sandra Bullock,56,65,124840,74000000,336045770,18.0
 31,Concussion,2015,Dec,Biography,PG-13,123,English,Peter Landesman,Peter Landesman,Will Smith,55,71,18046,35000000,34255169,28.0
-32,Sicario,2015,N/A,Action,R,121,English,Denis Villeneuve,Taylor Sheridan,Emily Blunt,81,77,143942,30000000,46875468,40.0
+32,Sicario,2015,N/A,Action,R,121,English,Denis Villeneuve,Taylor Sheridan,Emily Blunt,81,77,143942,30000000,46875468,37.0
 33,Unfinished Business,2015,Mar,Comedy,R,91,English,Ken Scott,Steve Conrad,Vince Vaughn,32,54,"20,531",35000000,10214013,37.0
-34,Terminator Genisys,2015,Jul,Action,PG-13,126,English,Alan Taylor,Laeta Kalogridis,Arnold Schwarzenegger,38,66,165960,155000000,89760956,28.0
+34,Terminator Genisys,2015,Jul,Action,PG-13,126,English,Alan Taylor,Laeta Kalogridis,Arnold Schwarzenegger,38,66,165960,155000000,89760956,29.0
 35,Scouts Guide to the Zombie Apocalypse,2015,Oct,Action,R,93,English,Christopher Landon,Carrie Lee Wilson,Tye Sheridan,32,63,17684,15000000,3635292,40.0
 36,Jem and the Holograms,2015,Oct,Adventure,PG,118,English,Jon M. Chu,Ryan Landels,Aubrey Peeples,42,39,2516,5000000,2184640,8.0
-37,Our Brand Is Crisis,2015,Oct,Comedy,R,107,English,David Gordon Green,Peter Straughan,Sandra Bullock,53,60,5244,28000000,6998324,16.0
-38,Insurgent,2015,Mar,Adventure,PG-13,119,English,Robert Schwentke,Brian Duffield,Kate Winslet,42,63,135211,110000000,129995817,28.0
-39,Deadpool,2016,Feb,Action,R,108,English,Tim Miller,Rhett Reese,Ryan Reynolds,65,86,145561,58000000,135050000,18.0
-40,Avengers: Age of Ultron,2015,May,Action,PG-13,141,English,Joss Whedon,Joss Whedon,Robert Downey Jr.,66,75,401155,250000000,459005868,39.0
+37,Our Brand Is Crisis,2015,Oct,Comedy,R,107,English,David Gordon Green,Peter Straughan,Sandra Bullock,53,60,5244,28000000,6998324,18.0
+38,Insurgent,2015,Mar,Adventure,PG-13,119,English,Robert Schwentke,Brian Duffield,Kate Winslet,42,63,135211,110000000,129995817,31.0
+39,Deadpool,2016,Feb,Action,R,108,English,Tim Miller,Rhett Reese,Ryan Reynolds,65,86,145561,58000000,135050000,26.0
+40,Avengers: Age of Ultron,2015,May,Action,PG-13,141,English,Joss Whedon,Joss Whedon,Robert Downey Jr.,66,75,401155,250000000,459005868,43.0
 41,Legend,2015,Nov,Biography,R,132,English,Brian Helgeland,Brian Helgeland,Paul Anderson,55,71,"53,745",30000000,1872994,28.0
-42,Brothers,2015,Dec,Drama,R,105,English,Jim Sheridan,David Benioff,Tobey Maguire,58,71,85404,10205000,266175,11.0
-43,Ricki and the Flash,2015,Aug,Comedy,PG-13,101,English,Jonathan Demme,Diablo Cody,Meryl Streep,54,60,11217,18000000,26822144,35.0
-44,Max,2015,Jun,Adventure,PG,111,English,Boaz Yakin,Boaz Yakin,Thomas Haden Church,47,68,15712,20000000,42652003,4.0
-45,Paper Towns,2015,Jul,Drama,PG-13,109,English,Jake Schreier,John Green,Nat Wolff,56,64,52522,12000000,31990064,25.0
+42,Brothers,2015,Dec,Drama,R,105,English,Jim Sheridan,David Benioff,Tobey Maguire,58,71,85404,10205000,266175,20.0
+43,Ricki and the Flash,2015,Aug,Comedy,PG-13,101,English,Jonathan Demme,Diablo Cody,Meryl Streep,54,60,11217,18000000,26822144,36.0
+44,Max,2015,Jun,Adventure,PG,111,English,Boaz Yakin,Boaz Yakin,Thomas Haden Church,47,68,15712,20000000,42652003,-5.0
+45,Paper Towns,2015,Jul,Drama,PG-13,109,English,Jake Schreier,John Green,Nat Wolff,56,64,52522,12000000,31990064,24.0
 46,Pixels,2015,Jul,Action,PG-13,106,English,Chris Columbus,Tim Herlihy,Adam Sandler,27,57,"74,411",88000000,78747585,20.0
-47,The 5th Wave,2016,Jan,Action,PG-13,112,English,J Blakeson,Susannah Grant,Chloë Grace Moretz,33,56,"13,202",38000000,29519370,43.0
+47,The 5th Wave,2016,Jan,Action,PG-13,112,English,J Blakeson,Susannah Grant,Chloë Grace Moretz,33,56,"13,202",38000000,29519370,42.0
 48,Americons,2015,Jan,Action,R,88,English,Theo Avgerinos,Beau Martin Williams (writer,Beau Martin Williams,25,69,59,400000,122410,0
 49,The Second Best Exotic Marigold Hotel,2015,Mar,Comedy,PG,122,English,John Madden,John Madden,Dev Patel,51,66,19409,10000000,33071558,55.0
 50,Paul Blart: Mall Cop 2,2015,Apr,Action,PG,94,English,Andy Fickman,Kevin James,Kevin James,13,44,21219,30000000,71038190,25.0
-51,Maggie,2015,May,Drama,PG-13,95,English,Henry Hobson,John Scott 3,Arnold Schwarzenegger,52,56,26541,8500000,187112,17.0
+51,Maggie,2015,May,Drama,PG-13,95,English,Henry Hobson,John Scott 3,Arnold Schwarzenegger,52,56,26541,8500000,187112,20.0
 52,The Danish Girl,2015,Jan,Biography,R,119,English,Tom Hooper,David Ebershoff,Alicia Vikander,66,70,52609,25000000,10613785,32.0
-53,The Night Before,2015,Nov,Comedy,R,101,English,Jonathan Levine,Jonathan Levine,Joseph Gordon-Levitt,58,68,14863,25000000,43035725,28.0
+53,The Night Before,2015,Nov,Comedy,R,101,English,Jonathan Levine,Jonathan Levine,Joseph Gordon-Levitt,58,68,14863,25000000,43035725,23.0
 54,Lucky Numbers,2015,Oct,Comedy,R,105,English,Nora Ephron,Adam Resnick,John Travolta,31,50,8396,2000,4000,0
 55,The Last Witch Hunter,2015,Oct,Action,PG-13,106,English,Breck Eisner,Cory Goodman,Vin Diesel,34,60,40628,75000000,27356090,15.0
 56,Straight Outta Compton,2015,Aug,Biography,R,147,English,F. Gary Gray,Jonathan Herman,O'Shea Jackson Jr.,72,80,96338,28000000,160902085,28.0
-57,War Room,2015,Aug,Drama,PG,120,English,Alex Kendrick,Alex Kendrick,Karen Abercrombie,26,62,6744,3000000,67790117,36.0
-58,The Boy Next Door,2015,Jan,Mystery,R,91,English,Rob Cohen,Barbara Curry,Jennifer Lopez,30,46,24392,4000000,35385560,7.0
-59,The Wedding Ringer,2015,Jan,Comedy,R,101,English,Jeremy Garelick,Jeremy Garelick,Kevin Hart,35,67,47847,23000000,64460211,11.0
-60,The Hunger Games: Mockingjay - Part 2,2015,Nov,Adventure,PG-13,137,English,Francis Lawrence,Peter Craig,Jennifer Lawrence,65,69,97247,160000000,280976000,30.0
-61,Grandma,2015,Sep,Comedy,R,79,English,Paul Weitz,Paul Weitz,Lily Tomlin,77,68,"5,131",600000,6975272,19.0
+57,War Room,2015,Aug,Drama,PG,120,English,Alex Kendrick,Alex Kendrick,Karen Abercrombie,26,63,6575,3000000,67790117,37.0
+58,The Boy Next Door,2015,Jan,Mystery,R,91,English,Rob Cohen,Barbara Curry,Jennifer Lopez,30,46,24392,4000000,35385560,8.0
+59,The Wedding Ringer,2015,Jan,Comedy,R,101,English,Jeremy Garelick,Jeremy Garelick,Kevin Hart,35,67,47847,23000000,64460211,14.0
+60,The Hunger Games: Mockingjay - Part 2,2015,Nov,Adventure,PG-13,137,English,Francis Lawrence,Peter Craig,Jennifer Lawrence,65,69,97247,160000000,280976000,24.0
+61,Grandma,2015,Sep,Comedy,R,79,English,Paul Weitz,Paul Weitz,Lily Tomlin,77,68,"5,131",600000,6975272,21.0
 62,The Vatican Tapes,2015,Jul,Horror,PG-13,91,English,Mark Neveldine,Chris Morgan,Olivia Taylor Dudley,37,45,5770,8495000,1712111,19.0
-63,Spectre,2015,Nov,Action,PG-13,148,English,Sam Mendes,John Logan,Daniel Craig,60,69,229683,245000000,199591466,23.0
-64,In the Heart of the Sea,2015,Dec,Action,PG-13,122,English,Ron Howard,Charles Leavitt,Chris Hemsworth,47,70,33186,100000000,24985612,48.0
+63,Spectre,2015,Nov,Action,PG-13,148,English,Sam Mendes,John Logan,Daniel Craig,60,69,229683,245000000,199591466,22.0
+64,In the Heart of the Sea,2015,Dec,Action,PG-13,122,English,Ron Howard,Charles Leavitt,Chris Hemsworth,47,70,33186,100000000,24985612,46.0
 65,The Lazarus Effect,2015,Feb,Horror,PG-13,83,English,David Gelb,Luke Dawson,Mark Duplass,31,52,25006,3300000,25799043,6.0
 66,Hitman: Agent 47,2015,Aug,Action,R,96,English,Aleksander Bach,Skip Woods,Angelababy,28,58,51744,35000000,22464430,19.0
-67,Fantastic Four,2015,Jul,Action,PG-13,106,English,Tim Story,Mark Frost,Ioan Gruffudd,40,57,258549,120000000,56117548,13.0
-68,Me and Earl and the Dying Girl,2015,Jul,Comedy,PG-13,105,English,Alfonso Gomez-Rejon,Jesse Andrews,Thomas Mann,74,78,58944,8000000,6743776,33.0
-69,Pan,2015,Oct,Adventure,PG,111,English,Joe Wright,Jason Fuchs,Hugh Jackman,36,59,28997,150000000,34964818,27.0
-70,Magic Mike XXL,2015,Jul,Comedy,R,115,English,Gregory Jacobs,Reid Carolin,Channing Tatum,60,57,32818,14800000,66009973,35.0
+67,Fantastic Four,2015,Jul,Action,PG-13,106,English,Tim Story,Mark Frost,Ioan Gruffudd,40,57,258549,120000000,56117548,14.0
+68,Me and Earl and the Dying Girl,2015,Jul,Comedy,PG-13,105,English,Alfonso Gomez-Rejon,Jesse Andrews,Thomas Mann,74,78,58944,8000000,6743776,34.0
+69,Pan,2015,Oct,Adventure,PG,111,English,Joe Wright,Jason Fuchs,Hugh Jackman,36,59,28997,150000000,34964818,30.0
+70,Magic Mike XXL,2015,Jul,Comedy,R,115,English,Gregory Jacobs,Reid Carolin,Channing Tatum,60,57,32818,14800000,66009973,36.0
 71,By the Sea,2015,Dec,Drama,R,122,English,Angelina Jolie,Angelina Jolie,Brad Pitt,44,52,4534,10000000,531009,5.0
-72,Pitch Perfect 2,2015,May,Comedy,PG-13,115,English,Elizabeth Banks,Kay Cannon,Anna Kendrick,63,65,84121,29000000,183436380,61.0
-73,The Longest Ride,2015,Apr,Drama,PG-13,128,English,George Tillman Jr.,Nicholas Sparks,Britt Robertson,33,71,42134,34000000,37432299,40.0
-74,Little Boy,2015,Apr,Drama,PG-13,106,English,Alejandro Monteverde,Alejandro Monteverde,Ted Levine,30,74,13768,30000000,6420319,7.0
-75,The Hateful Eight,2015,Dec,Crime,R,187,English,Quentin Tarantino,Quentin Tarantino,Samuel L. Jackson,68,80,166614,62000000,53007830,21.0
+72,Pitch Perfect 2,2015,May,Comedy,PG-13,115,English,Elizabeth Banks,Kay Cannon,Anna Kendrick,63,65,84121,29000000,183436380,60.0
+73,The Longest Ride,2015,Apr,Drama,PG-13,128,English,George Tillman Jr.,Nicholas Sparks,Britt Robertson,33,71,42134,34000000,37432299,42.0
+74,Little Boy,2015,Apr,Drama,PG-13,106,English,Alejandro Monteverde,Alejandro Monteverde,Ted Levine,30,74,13768,30000000,6420319,5.0
+75,The Hateful Eight,2015,Dec,Crime,R,187,English,Quentin Tarantino,Quentin Tarantino,Samuel L. Jackson,68,80,166614,62000000,53007830,18.0
 76,The Ghouls,2015,Mar,Horror,R,81,English,Chad Ferrin,Chad Ferrin,Timothy Muskatell,N/A,41,415,37000000,816974,8.0
-77,Woman in Gold,2015,Apr,Biography,PG-13,109,English,Simon Curtis,Alexi Kaye Campbell,Helen Mirren,51,73,29083,11000000,33305037,39.0
-78,Ted 2,2015,Jun,Comedy,R,115,English,Seth MacFarlane,Seth MacFarlane,Mark Wahlberg,48,64,98958,68000000,81257500,20.0
-79,Bridge of Spies,2015,Oct,Biography,PG-13,142,English,Steven Spielberg,Matt Charman,Mark Rylance,81,77,112329,40000000,72051548,37.0
+77,Woman in Gold,2015,Apr,Biography,PG-13,109,English,Simon Curtis,Alexi Kaye Campbell,Helen Mirren,51,73,29083,11000000,33305037,36.0
+78,Ted 2,2015,Jun,Comedy,R,115,English,Seth MacFarlane,Seth MacFarlane,Mark Wahlberg,48,64,98958,68000000,81257500,21.0
+79,Bridge of Spies,2015,Oct,Biography,PG-13,142,English,Steven Spielberg,Matt Charman,Mark Rylance,81,77,112329,40000000,72051548,39.0
 80,My All American,2015,Nov,Biography,PG,118,English,Angelo Pizzo,Angelo Pizzo,Aaron Eckhart,34,69,1222,20000000,2246000,42.0
 81,Cinderella,2015,Mar,Animation,APPROVED,74,English,"Clyde Geronimi, Wilfred Jackson, Hamilton Luske",Charles Perrault,Ilene Woods,N/A,73,99040,95000000,201148159,38.0
 82,Demonic,2015,Feb,Horror,R,83,English,Will Canon,Max La Bella,Maria Bello,N/A,53,6359,3000000,3387774,7.0
 83,Strangerland,2015,Jul,Drama,R,112,English,Kim Farrant,Michael Kinirons,Nicole Kidman,42,52,"5,087",10000000,17472,0
-84,Best of Enemies,2015,Jul,Documentary,R,87,English,"Robert Gordon, Morgan Neville",Robert Gordon,Paul Newman,77,76,2420,1000000,891997,79.0
-85,Get Hard,2015,Mar,Comedy,R,100,English,Etan Cohen,Jay Martel,Will Ferrell,34,61,74947,40000000,90353764,2.0
-86,Ant-Man,2015,Jul,Action,PG-13,117,English,Peyton Reed,Edgar Wright,Paul Rudd,64,74,235524,130000000,180202163,17.0
-87,The Martian,2015,Oct,Adventure,PG-13,144,English,Ridley Scott,Drew Goddard,Matt Damon,80,81,"341,153",108000000,228120056,34.0
-88,The Big Short,2015,Dec,Biography,R,130,English,Adam McKay,Charles Randolph,Ryan Gosling,81,79,"106,723",28000000,63660681,29.0
-89,Mission: Impossible - Rogue Nation,2015,Jul,Action,PG-13,131,English,Christopher McQuarrie,Christopher McQuarrie,Tom Cruise,75,75,207337,150000000,195042377,-31.0
-90,Ride Along 2,2016,Jan,Action,PG-13,102,English,Tim Story,Phil Hay,Ice Cube,32,59,10186,40000000,82661235,28.0
+84,Best of Enemies,2015,Jul,Documentary,R,87,English,"Robert Gordon, Morgan Neville",Robert Gordon,Paul Newman,77,76,2420,1000000,891997,84.0
+85,Get Hard,2015,Mar,Comedy,R,100,English,Etan Cohen,Jay Martel,Will Ferrell,34,61,74947,40000000,90353764,-1.0
+86,Ant-Man,2015,Jul,Action,PG-13,117,English,Peyton Reed,Edgar Wright,Paul Rudd,64,74,235524,130000000,180202163,15.0
+87,The Martian,2015,Oct,Adventure,PG-13,144,English,Ridley Scott,Drew Goddard,Matt Damon,80,81,"341,153",108000000,228120056,33.0
+88,The Big Short,2015,Dec,Biography,R,130,English,Adam McKay,Charles Randolph,Ryan Gosling,81,79,"106,723",28000000,63660681,21.0
+89,Mission: Impossible - Rogue Nation,2015,Jul,Action,PG-13,131,English,Christopher McQuarrie,Christopher McQuarrie,Tom Cruise,75,75,207337,150000000,195042377,-30.0
+90,Ride Along 2,2016,Jan,Action,PG-13,102,English,Tim Story,Phil Hay,Ice Cube,32,59,10186,40000000,82661235,31.0
 91,Spy,2015,Jun,Action,R,119,English,Paul Feig,Paul Feig,Jude Law,75,71,"141,626",65000000,110822419,22.0
 92,The Man from U.N.C.L.E.,2015,Aug,Action,PG-13,116,English,Guy Ritchie,Guy Ritchie,Henry Cavill,56,73,"145,170",75000000,45372659,35.0
 93,I Smile Back,2015,Nov,Drama,R,85,English,Adam Salky,Paige Dylan,Josh Charles,59,60,2218,495000,57678,18.0
-94,Kung Fu Panda 3,2016,Jan,Animation,PG,95,English,"Alessandro Carloni, Jennifer Yuh",Jonathan Aibel,Jack Black,65,76,12433,145000000,93912387,32.0
-95,Self/less,2015,Jul,Action,PG-13,117,English,Tarsem Singh,David Pastor,Ryan Reynolds,34,65,47857,26000000,12276810,6.0
-96,Vacation,2015,Jul,Adventure,R,99,English,"John Francis Daley, Jonathan M. Goldstein",Jonathan M. Goldstein,Ed Helms,34,62,52476,31000000,58787835,27.0
-97,The Forest,2016,Jan,Horror,PG-13,93,English,Jason Zada,Nick Antosca,Natalie Dormer,34,50,"5,123",10000000,26387046,14.0
-98,Everest,2015,Sep,Adventure,PG-13,121,English,Baltasar Kormákur,William Nicholson,Jason Clarke,64,71,"106,049",55000000,43482270,10.0
-99,Spotlight,2015,Nov,Biography,R,128,English,Tom McCarthy,Josh Singer,Mark Ruffalo,93,82,72189,20000000,39478783,41.0
-100,Goosebumps,2015,Oct,Adventure,PG,103,English,Rob Letterman,Darren Lemke,Jack Black,60,64,"31,810",58000000,80021740,38.0
+94,Kung Fu Panda 3,2016,Jan,Animation,PG,95,English,"Alessandro Carloni, Jennifer Yuh",Jonathan Aibel,Jack Black,65,76,12433,145000000,93912387,30.0
+95,Self/less,2015,Jul,Action,PG-13,117,English,Tarsem Singh,David Pastor,Ryan Reynolds,34,65,47857,26000000,12276810,8.0
+96,Vacation,2015,Jul,Adventure,R,99,English,"John Francis Daley, Jonathan M. Goldstein",Jonathan M. Goldstein,Ed Helms,34,62,52476,31000000,58787835,28.0
+97,The Forest,2016,Jan,Horror,PG-13,93,English,Jason Zada,Nick Antosca,Natalie Dormer,34,50,"5,123",10000000,26387046,16.0
+98,Everest,2015,Sep,Adventure,PG-13,121,English,Baltasar Kormákur,William Nicholson,Jason Clarke,64,71,"106,049",55000000,43482270,9.0
+99,Spotlight,2015,Nov,Biography,R,128,English,Tom McCarthy,Josh Singer,Mark Ruffalo,93,82,72189,20000000,39478783,27.0
+100,Goosebumps,2015,Oct,Adventure,PG,103,English,Rob Letterman,Darren Lemke,Jack Black,60,64,"31,810",58000000,80021740,40.0
 101,Jane Got a Gun,2015,Jan,Action,R,98,English,Gavin O'Connor,Brian Duffield,Natalie Portman,50,60,1019,25000000,1397284,26.0
 102,Un gallo con muchos huevos,2015,Sep,Animation,PG-13,98,Spanish,"Gabriel Riva Palacio Alatriste, Rodolfo Riva-Palacio Alatriste",Marqus Bobesich,Bruno Bichir,N/A,60,505,5300000,9019864,0
-103,The 33,2015,Nov,Biography,PG-13,127,English,Patricia Riggen,Mikko Alanne,Antonio Banderas,55,69,14517,25000000,12188642,19.0
-104,Hot Tub Time Machine 2,2015,Feb,Comedy,R,93,English,Steve Pink,Josh Heald,Rob Corddry,29,51,25476,14000000,12282677,19.0
-105,Sinister 2,2015,Aug,Horror,R,97,English,Ciarán Foy,Scott Derrickson,James Ransone,32,53,18317,10000000,27642169,-11.0
-106,Joy,2015,Dec,Comedy,PG-13,124,English,David O. Russell,David O. Russell,Jennifer Lawrence,56,66,"44,165",60000000,55845747,40.0
+103,The 33,2015,Nov,Biography,PG-13,127,English,Patricia Riggen,Mikko Alanne,Antonio Banderas,55,69,14517,25000000,12188642,15.0
+104,Hot Tub Time Machine 2,2015,Feb,Comedy,R,93,English,Steve Pink,Josh Heald,Rob Corddry,29,51,25476,14000000,12282677,17.0
+105,Sinister 2,2015,Aug,Horror,R,97,English,Ciarán Foy,Scott Derrickson,James Ransone,32,53,18317,10000000,27642169,-7.0
+106,Joy,2015,Dec,Comedy,PG-13,124,English,David O. Russell,David O. Russell,Jennifer Lawrence,56,66,"44,165",60000000,55845747,47.0
 107,Love the Coopers,2015,Nov,Comedy,PG-13,107,English,Jessie Nelson,Steven Rogers,Steve Martin,31,57,5279,17000000,26284475,30.0
-108,Focus,2015,Feb,Comedy,R,105,English,"Glenn Ficarra, John Requa",Glenn Ficarra,Will Smith,56,66,"133,448",50100000,53846915,21.0
+108,Focus,2015,Feb,Comedy,R,105,English,"Glenn Ficarra, John Requa",Glenn Ficarra,Will Smith,56,66,"133,448",50100000,53846915,24.0
 109,Hotel Transylvania 2,2015,Sep,Animation,PG,89,English,Genndy Tartakovsky,Robert Smigel,Adam Sandler,44,68,41918,80000000,169611752,51.0
-110,Ex Machina,2015,Apr,Drama,R,108,English,Alex Garland,Alex Garland,Domhnall Gleeson,78,77,248213,15000000,25442958,24.0
+110,Ex Machina,2015,Apr,Drama,R,108,English,Alex Garland,Alex Garland,Domhnall Gleeson,78,77,248213,15000000,25442958,23.0
 111,Lazer Team,2015,Jan,Action,PG-13,102,English,Matt Hullum,Burnie Burns,Burnie Burns,40,62,3235,2480421,1149878,23.0
 112,The Gunman,2015,Mar,Action,R,115,English,Pierre Morel,Jean-Patrick Manchette,Sean Penn,39,58,25196,40000000,10640645,6.0
 113,10 Days in a Madhouse,2015,Nov,Drama,R,111,English,Timothy Hines,Timothy Hines,Caroline Barry,N/A,85,232,12000000,14616,0
 114,Aloha,2015,May,Comedy,PG-13,105,English,Cameron Crowe,Cameron Crowe,Bradley Cooper,40,55,34947,37000000,20991497,14.0
-115,The Intern,2015,Sep,Comedy,PG-13,121,English,Nancy Meyers,Nancy Meyers,Robert De Niro,51,72,98627,35000000,75274748,35.0
+115,The Intern,2015,Sep,Comedy,PG-13,121,English,Nancy Meyers,Nancy Meyers,Robert De Niro,51,72,98627,35000000,75274748,36.0
 116,Savage High,2016,Oct,Drama,NOT RATED,92,English,Manny Velazquez,Manny Velazquez,Alen Rios,N/A,N/A,N/A,10000,350,16.0
 117,Burnt,2015,Oct,Comedy,R,101,English,John Wells,Steven Knight,Bradley Cooper,42,66,41512,20000000,13650738,16.0
 118,Krampus,2015,Dec,Comedy,PG-13,98,English,Michael Dougherty,Todd Casey,Emjay Anthony,49,65,16794,15000000,42592530,7.0
-119,Mad Max: Fury Road,2015,May,Action,R,120,English,George Miller,George Miller,Tom Hardy,89,82,452340,150000000,153636354,-1.0
-120,Dope,2015,Jun,Comedy,R,103,English,Rick Famuyiwa,Rick Famuyiwa,Rakim Mayers,72,73,42961,700000,17474107,24.0
-121,Steve Jobs,2015,Oct,Biography,R,122,English,Danny Boyle,Aaron Sorkin,Michael Fassbender,82,73,67279,30000000,17750583,12.0
-122,Mortdecai,2015,Jan,Action,R,107,English,David Koepp,Eric Aronson,Johnny Depp,27,55,42020,60000000,7605668,5.0
-123,Point Break,2015,Jul,Action,R,122,English,Kathryn Bigelow,Rick King,Patrick Swayze,58,72,106126,105000000,28617282,29.0
+119,Mad Max: Fury Road,2015,May,Action,R,120,English,George Miller,George Miller,Tom Hardy,89,82,452340,150000000,153636354,1.0
+120,Dope,2015,Jun,Comedy,R,103,English,Rick Famuyiwa,Rick Famuyiwa,Rakim Mayers,72,73,42961,700000,17474107,34.0
+121,Steve Jobs,2015,Oct,Biography,R,122,English,Danny Boyle,Aaron Sorkin,Michael Fassbender,82,73,67279,30000000,17750583,6.0
+122,Mortdecai,2015,Jan,Action,R,107,English,David Koepp,Eric Aronson,Johnny Depp,27,55,42020,60000000,7605668,6.0
+123,Point Break,2015,Jul,Action,R,122,English,Kathryn Bigelow,Rick King,Patrick Swayze,58,72,106126,105000000,28617282,31.0
 124,The Age of Adaline,2015,Apr,Drama,PG-13,112,English,Lee Toland Krieger,J. Mills Goodloe,Blake Lively,51,72,80047,25000000,42478175,53.0
 125,Tomorrowland,2015,May,Action,PG,130,English,Brad Bird,Damon Lindelof,George Clooney,60,65,110858,190000000,93417865,23.0
 126,The Masked Saint,2016,Jan,Action,PG-13,111,English,Warren P. Sonoda,Scott Crowell,Brett Granstaff,22,45,113,3500000,123777,27.0
-127,The Visit,2015,Sep,Horror,PG-13,94,English,M. Night Shyamalan,M. Night Shyamalan,Olivia DeJonge,55,62,48005,5000000,65069140,37.0
+127,The Visit,2015,Sep,Horror,PG-13,94,English,M. Night Shyamalan,M. Night Shyamalan,Olivia DeJonge,55,62,44876,5000000,65069140,13.0
 128,Star Wars: Episode VII - The Force Awakens,2015,Dec,Action,PG-13,135,English,J.J. Abrams,Lawrence Kasdan,Harrison Ford,81,84,435197,200000000,914838964,18.0
 129,Southpaw,2015,Jul,Action,R,124,English,Antoine Fuqua,Kurt Sutter,Jake Gyllenhaal,57,75,127655,30000000,52316554,21.0
-130,Jurassic World,2015,Jun,Action,PG-13,124,English,Colin Trevorrow,Rick Jaffa,Chris Pratt,59,71,370707,150000000,652270625,3.0
-131,Chappie,2015,Mar,Action,R,120,English,Neill Blomkamp,Neill Blomkamp,Sharlto Copley,41,69,158751,49000000,31569268,25.0
-132,Home,2015,Mar,Animation,PG,94,English,Tim Johnson,Tom J. Astle,Jim Parsons,55,67,62163,135000000,177397510,23.0
-133,Room,2015,Jan,Drama,R,118,English,Lenny Abrahamson,Emma Donoghue,Brie Larson,86,83,42408,6000000,13538053,21.0
-134,We Are Your Friends,2015,Aug,Drama,R,96,English,Max Joseph,Max Joseph,Zac Efron,46,61,14990,6000000,3590010,38.0
-135,Child 44,2015,Apr,Crime,R,137,English,Daniel Espinosa,Richard Price,Xavier Atkins,41,64,34796,50000000,1206135,27.0
-136,The Walk,2015,Oct,Adventure,PG,123,English,Robert Zemeckis,Robert Zemeckis,Joseph Gordon-Levitt,70,75,57807,35000000,10137502,-1.0
+130,Jurassic World,2015,Jun,Action,PG-13,124,English,Colin Trevorrow,Rick Jaffa,Chris Pratt,59,71,370707,150000000,652270625,-1.0
+131,Chappie,2015,Mar,Action,R,120,English,Neill Blomkamp,Neill Blomkamp,Sharlto Copley,41,69,158751,49000000,31569268,29.0
+132,Home,2015,Mar,Animation,PG,94,English,Tim Johnson,Tom J. Astle,Jim Parsons,55,67,62163,135000000,177397510,26.0
+133,Room,2015,Jan,Drama,R,118,English,Lenny Abrahamson,Emma Donoghue,Brie Larson,86,83,42408,6000000,13538053,11.0
+134,We Are Your Friends,2015,Aug,Drama,R,96,English,Max Joseph,Max Joseph,Zac Efron,46,61,14990,6000000,3590010,41.0
+135,Child 44,2015,Apr,Crime,R,137,English,Daniel Espinosa,Richard Price,Xavier Atkins,41,64,34796,50000000,1206135,29.0
+136,The Walk,2015,Oct,Adventure,PG,123,English,Robert Zemeckis,Robert Zemeckis,Joseph Gordon-Levitt,70,75,57807,35000000,10137502,25.0
 137,Suffragette,2015,Oct,Biography,PG-13,106,English,Sarah Gavron,Abi Morgan,Anne-Marie Duff,67,69,13771,14000000,4693356,39.0
 138,Hot Pursuit,2015,May,Action,PG-13,87,English,Anne Fletcher,David Feeney,Reese Witherspoon,31,51,30216,35000000,34507079,-3.0
 139,The Perfect Guy,2015,Sep,Drama,PG-13,100,English,David M. Rosenthal,Alan B. McElroy,Sanaa Lathan,36,54,4735,12000000,57017904,41.0
-140,Pride and Prejudice and Zombies,2016,Feb,Action,PG-13,107,English,Burr Steers,Burr Steers,Lily James,45,62,"6,711",28000000,5324240,23.0
+140,Pride and Prejudice and Zombies,2016,Feb,Action,PG-13,107,English,Burr Steers,Burr Steers,Lily James,45,62,"6,711",28000000,5324240,22.0
 141,Crimson Peak,2015,Oct,Drama,R,119,English,Guillermo del Toro,Guillermo del Toro,Mia Wasikowska,66,67,63384,55000000,31056945,13.0
 142,13 Hours: The Secret Soldiers of Benghazi,2016,Jan,Action,R,144,English,Michael Bay,Chuck Hogan,John Krasinski,48,76,9803,50000000,47742896,-21.0
-143,Sisters,2015,Dec,Comedy,R,118,English,Jason Moore,Paula Pell,Amy Poehler,58,62,20899,30000000,86535790,27.0
-144,American Ultra,2015,Aug,Action,R,96,English,Nima Nourizadeh,Max Landis,Jesse Eisenberg,50,61,41312,28000000,14434604,37.0
+143,Sisters,2015,Dec,Comedy,R,118,English,Jason Moore,Paula Pell,Amy Poehler,58,62,20899,30000000,86535790,22.0
+144,American Ultra,2015,Aug,Action,R,96,English,Nima Nourizadeh,Max Landis,Jesse Eisenberg,50,61,41312,28000000,14434604,38.0
 145,Poltergeist,2015,Jun,Fantasy,PG,114,English,Tobe Hooper,Steven Spielberg,Craig T. Nelson,79,74,99989,35000000,47415690,12.0
 146,90 Minutes in Heaven,2015,Sep,Drama,PG-13,121,English,Michael Polish,Don Piper,Hayden Christensen,28,45,1593,5000000,4700361,40.0
-147,Insidious: Chapter 3,2015,Jun,Fantasy,PG-13,97,English,Leigh Whannell,Leigh Whannell,Dermot Mulroney,52,61,45417,10000000,52218558,1.0
-148,The Boy,2016,Jan,Horror,PG-13,97,English,William Brent Bell,Stacey Menear,Lauren Cohan,42,62,7356,10000000,30778587,5.0
+147,Insidious: Chapter 3,2015,Jun,Fantasy,PG-13,97,English,Leigh Whannell,Leigh Whannell,Dermot Mulroney,52,61,45417,10000000,52218558,-1.0
+148,The Boy,2016,Jan,Horror,PG-13,97,English,William Brent Bell,Stacey Menear,Lauren Cohan,42,62,7356,10000000,30778587,11.0
