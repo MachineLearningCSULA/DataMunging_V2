@@ -25,7 +25,7 @@ var/
 *.egg
 
 # data files
-data_extractor/src/main/resources/data/
+data_analyzer/tweet_data
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
