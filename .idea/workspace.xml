@@ -2,12 +2,163 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cd80f981-070f-4a8c-830f-c7d61ca76626" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data_analyzer/tweet_data/103.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data_analyzer/tweet_data/106.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data_analyzer/tweet_data/17.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data_analyzer/tweet_data/31.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data_analyzer/tweet_data/34.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data_analyzer/tweet_data/44.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data_analyzer/tweet_data/56.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data_analyzer/tweet_data/61.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data_analyzer/tweet_data/63.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data_analyzer/tweet_data/68.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data_analyzer/tweet_data/69.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data_analyzer/tweet_data/76.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data_analyzer/tweet_data/79.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data_analyzer/tweet_data/85.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data_analyzer/tweet_data/98.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data_analyzer/tweet_data/1.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data_analyzer/tweet_data/10.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data_analyzer/tweet_data/100.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data_analyzer/tweet_data/101.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data_analyzer/tweet_data/102.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data_analyzer/tweet_data/104.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data_analyzer/tweet_data/105.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data_analyzer/tweet_data/107.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data_analyzer/tweet_data/108.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data_analyzer/tweet_data/109.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data_analyzer/tweet_data/11.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data_analyzer/tweet_data/110.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data_analyzer/tweet_data/111.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data_analyzer/tweet_data/112.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data_analyzer/tweet_data/113.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data_analyzer/tweet_data/114.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data_analyzer/tweet_data/115.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data_analyzer/tweet_data/116.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data_analyzer/tweet_data/117.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data_analyzer/tweet_data/118.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data_analyzer/tweet_data/119.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data_analyzer/tweet_data/12.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data_analyzer/tweet_data/120.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data_analyzer/tweet_data/121.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data_analyzer/tweet_data/122.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data_analyzer/tweet_data/123.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data_analyzer/tweet_data/124.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data_analyzer/tweet_data/125.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data_analyzer/tweet_data/126.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data_analyzer/tweet_data/127.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data_analyzer/tweet_data/128.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data_analyzer/tweet_data/129.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data_analyzer/tweet_data/13.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data_analyzer/tweet_data/130.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data_analyzer/tweet_data/131.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data_analyzer/tweet_data/132.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data_analyzer/tweet_data/133.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data_analyzer/tweet_data/134.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data_analyzer/tweet_data/135.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data_analyzer/tweet_data/136.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data_analyzer/tweet_data/137.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data_analyzer/tweet_data/138.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data_analyzer/tweet_data/139.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data_analyzer/tweet_data/14.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data_analyzer/tweet_data/140.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data_analyzer/tweet_data/141.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data_analyzer/tweet_data/142.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data_analyzer/tweet_data/143.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data_analyzer/tweet_data/144.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data_analyzer/tweet_data/145.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data_analyzer/tweet_data/146.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data_analyzer/tweet_data/147.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data_analyzer/tweet_data/148.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data_analyzer/tweet_data/15.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data_analyzer/tweet_data/16.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data_analyzer/tweet_data/18.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data_analyzer/tweet_data/19.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data_analyzer/tweet_data/2.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data_analyzer/tweet_data/20.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data_analyzer/tweet_data/21.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data_analyzer/tweet_data/22.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data_analyzer/tweet_data/23.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data_analyzer/tweet_data/24.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data_analyzer/tweet_data/25.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data_analyzer/tweet_data/26.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data_analyzer/tweet_data/27.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data_analyzer/tweet_data/28.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data_analyzer/tweet_data/29.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data_analyzer/tweet_data/3.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data_analyzer/tweet_data/30.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data_analyzer/tweet_data/32.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data_analyzer/tweet_data/33.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data_analyzer/tweet_data/35.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data_analyzer/tweet_data/36.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data_analyzer/tweet_data/37.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data_analyzer/tweet_data/38.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data_analyzer/tweet_data/39.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data_analyzer/tweet_data/4.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data_analyzer/tweet_data/40.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data_analyzer/tweet_data/41.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data_analyzer/tweet_data/42.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data_analyzer/tweet_data/43.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data_analyzer/tweet_data/45.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data_analyzer/tweet_data/46.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data_analyzer/tweet_data/47.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data_analyzer/tweet_data/48.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data_analyzer/tweet_data/49.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data_analyzer/tweet_data/5.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data_analyzer/tweet_data/50.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data_analyzer/tweet_data/51.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data_analyzer/tweet_data/52.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data_analyzer/tweet_data/53.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data_analyzer/tweet_data/54.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data_analyzer/tweet_data/55.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data_analyzer/tweet_data/57.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data_analyzer/tweet_data/58.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data_analyzer/tweet_data/59.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data_analyzer/tweet_data/6.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data_analyzer/tweet_data/60.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data_analyzer/tweet_data/62.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data_analyzer/tweet_data/64.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data_analyzer/tweet_data/65.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data_analyzer/tweet_data/66.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data_analyzer/tweet_data/67.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data_analyzer/tweet_data/7.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data_analyzer/tweet_data/70.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data_analyzer/tweet_data/71.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data_analyzer/tweet_data/72.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data_analyzer/tweet_data/73.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data_analyzer/tweet_data/74.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data_analyzer/tweet_data/75.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data_analyzer/tweet_data/77.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data_analyzer/tweet_data/78.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data_analyzer/tweet_data/8.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data_analyzer/tweet_data/80.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data_analyzer/tweet_data/81.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data_analyzer/tweet_data/82.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data_analyzer/tweet_data/83.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data_analyzer/tweet_data/84.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data_analyzer/tweet_data/86.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data_analyzer/tweet_data/87.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data_analyzer/tweet_data/88.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data_analyzer/tweet_data/89.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data_analyzer/tweet_data/9.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data_analyzer/tweet_data/90.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data_analyzer/tweet_data/91.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data_analyzer/tweet_data/92.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data_analyzer/tweet_data/93.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data_analyzer/tweet_data/94.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data_analyzer/tweet_data/95.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data_analyzer/tweet_data/96.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data_analyzer/tweet_data/97.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data_analyzer/tweet_data/99.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data_analyzer/data_analysis.ipynb" afterPath="$PROJECT_DIR$/data_analyzer/data_analysis.ipynb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data_analyzer/movies_with_sentiment.csv" afterPath="$PROJECT_DIR$/data_analyzer/movies_with_sentiment.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data_analyzer/page_tweets.py" afterPath="$PROJECT_DIR$/data_analyzer/page_tweets.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data_analyzer/sentiment_merger.py" afterPath="$PROJECT_DIR$/data_analyzer/sentiment_merger.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data_extractor/.idea/workspace.xml" afterPath="$PROJECT_DIR$/data_extractor/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data_extractor/output/movies.csv" afterPath="$PROJECT_DIR$/data_extractor/output/movies.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data_extractor/src/main/java/omdbParser.java" afterPath="$PROJECT_DIR$/data_extractor/src/main/java/omdbParser.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data_extractor/src/main/java/BusinessParser.java" afterPath="$PROJECT_DIR$/data_extractor/src/main/java/BusinessParser.java" />
     </list>
     <ignored path="movie_prediction.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -31,8 +182,8 @@
       <file leaf-file-name="sentiment_merger.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/data_analyzer/sentiment_merger.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.33273703">
-              <caret line="101" column="21" selection-start-line="101" selection-start-column="18" selection-end-line="101" selection-end-column="21" />
+            <state vertical-scroll-proportion="1.4672567">
+              <caret line="41" column="16" selection-start-line="41" selection-start-column="16" selection-end-line="41" selection-end-column="16" />
               <folding>
                 <element signature="e#0#51#0" expanded="true" />
               </folding>
@@ -54,8 +205,10 @@
         <entry file="file://$PROJECT_DIR$/data_analyzer/page_tweets.py">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="63" column="3" selection-start-line="63" selection-start-column="3" selection-end-line="63" selection-end-column="3" />
-              <folding />
+              <caret line="44" column="70" selection-start-line="44" selection-start-column="70" selection-end-line="44" selection-end-column="70" />
+              <folding>
+                <element signature="e#2#53#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -81,17 +234,17 @@
         <option value="$PROJECT_DIR$/data_analyzer/project.py" />
         <option value="$PROJECT_DIR$/data_analyzer/analyzer.py" />
         <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/data_analyzer/page_tweets.py" />
         <option value="$PROJECT_DIR$/data_analyzer/sentiment_analyzer.py" />
         <option value="$PROJECT_DIR$/data_analyzer/sentiment_merger.py" />
+        <option value="$PROJECT_DIR$/data_analyzer/page_tweets.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="2391" />
+    <option name="x" value="-9" />
     <option name="y" value="-9" />
-    <option name="width" value="1818" />
-    <option name="height" value="1093" />
+    <option name="width" value="1938" />
+    <option name="height" value="1048" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -118,7 +271,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -158,6 +310,7 @@
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -405,15 +558,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="2391" y="-9" width="1818" height="1093" extended-state="6" />
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21263395" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21236134" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290461" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290461" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32939914" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32690248" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3265766" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290461" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -467,6 +620,26 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="63" column="3" selection-start-line="63" selection-start-column="3" selection-end-line="63" selection-end-column="3" />
+          <folding>
+            <element signature="e#2#53#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data_analyzer/sentiment_merger.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#51#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data_analyzer/sentiment_analyzer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="78" column="0" selection-start-line="78" selection-start-column="0" selection-end-line="78" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -474,8 +647,20 @@
     <entry file="file://$PROJECT_DIR$/data_analyzer/page_tweets.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
+          <caret line="63" column="3" selection-start-line="63" selection-start-column="3" selection-end-line="63" selection-end-column="3" />
+          <folding>
+            <element signature="e#2#53#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data_analyzer/page_tweets.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
           <caret line="18" column="37" selection-start-line="18" selection-start-column="37" selection-end-line="18" selection-end-column="37" />
-          <folding />
+          <folding>
+            <element signature="e#2#53#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -503,8 +688,10 @@
     <entry file="file://$PROJECT_DIR$/data_analyzer/page_tweets.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="63" column="3" selection-start-line="63" selection-start-column="3" selection-end-line="63" selection-end-column="3" />
-          <folding />
+          <caret line="44" column="70" selection-start-line="44" selection-start-column="70" selection-end-line="44" selection-end-column="70" />
+          <folding>
+            <element signature="e#2#53#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -518,8 +705,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/data_analyzer/sentiment_merger.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33273703">
-          <caret line="101" column="21" selection-start-line="101" selection-start-column="18" selection-end-line="101" selection-end-column="21" />
+        <state vertical-scroll-proportion="1.4672567">
+          <caret line="41" column="16" selection-start-line="41" selection-start-column="16" selection-end-line="41" selection-end-column="16" />
           <folding>
             <element signature="e#0#51#0" expanded="true" />
           </folding>
