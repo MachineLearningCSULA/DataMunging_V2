@@ -2,159 +2,244 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f763e7fc-1b60-42dc-8d90-0311f64622cc" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/17.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/63.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/68.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/1.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/10.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/100.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/101.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/102.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/103.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/104.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/105.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/106.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/107.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/108.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/109.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/11.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/110.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/111.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/112.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/113.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/114.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/115.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/116.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/117.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/118.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/119.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/12.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/120.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/121.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/122.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/123.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/124.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/125.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/126.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/127.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/128.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/129.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/13.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/130.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/131.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/132.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/133.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/134.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/135.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/136.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/137.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/138.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/139.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/14.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/140.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/141.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/142.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/143.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/144.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/145.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/146.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/147.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/148.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/15.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/16.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/18.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/19.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/2.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/20.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/21.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/22.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/23.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/24.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/25.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/26.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/27.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/28.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/29.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/3.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/30.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/31.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/32.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/33.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/34.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/35.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/36.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/37.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/38.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/39.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/4.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/40.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/41.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/42.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/43.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/44.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/45.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/46.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/47.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/48.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/49.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/5.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/50.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/51.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/52.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/53.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/54.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/55.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/56.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/57.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/58.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/59.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/6.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/60.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/61.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/62.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/64.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/65.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/66.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/67.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/69.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/7.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/70.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/71.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/72.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/73.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/74.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/75.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/76.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/77.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/78.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/79.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/8.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/80.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/81.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/82.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/83.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/84.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/85.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/86.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/87.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/88.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/89.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/9.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/90.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/91.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/92.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/93.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/94.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/95.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/96.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/97.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/98.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/99.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../.gitignore" afterPath="$PROJECT_DIR$/../.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/17.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/17.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/174.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/174.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/180.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/180.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/275.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/275.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/287.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/287.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/317.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/317.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/63.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/63.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/68.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/68.csv" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../.idea/workspace.xml" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/data_analysis.ipynb" afterPath="$PROJECT_DIR$/../data_analyzer/data_analysis.ipynb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/movies_with_sentiment.csv" afterPath="$PROJECT_DIR$/../data_analyzer/movies_with_sentiment.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/1.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/1.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/10.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/10.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/100.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/100.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/101.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/101.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/103.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/103.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/104.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/104.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/105.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/105.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/106.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/106.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/108.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/108.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/109.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/109.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/11.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/11.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/111.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/111.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/112.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/112.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/114.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/114.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/115.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/115.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/118.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/118.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/12.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/12.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/122.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/122.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/123.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/123.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/126.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/126.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/13.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/13.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/130.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/130.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/131.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/131.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/132.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/132.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/134.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/134.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/135.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/135.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/137.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/137.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/138.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/138.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/139.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/139.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/14.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/14.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/141.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/141.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/142.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/142.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/143.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/143.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/144.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/144.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/145.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/145.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/146.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/146.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/147.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/147.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/148.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/148.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/149.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/149.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/15.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/15.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/150.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/150.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/151.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/151.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/152.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/152.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/156.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/156.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/158.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/158.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/159.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/159.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/16.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/16.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/164.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/164.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/165.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/165.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/168.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/168.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/169.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/169.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/171.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/171.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/173.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/173.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/175.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/175.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/176.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/176.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/177.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/177.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/178.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/178.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/179.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/179.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/181.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/181.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/182.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/182.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/185.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/185.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/186.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/186.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/187.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/187.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/189.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/189.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/19.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/19.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/190.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/190.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/194.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/194.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/195.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/195.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/196.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/196.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/197.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/197.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/198.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/198.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/199.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/199.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/2.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/2.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/20.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/20.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/200.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/200.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/201.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/201.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/202.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/202.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/203.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/203.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/204.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/204.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/206.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/206.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/208.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/208.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/209.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/209.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/21.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/21.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/210.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/210.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/211.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/211.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/212.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/212.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/213.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/213.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/214.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/214.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/216.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/216.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/217.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/217.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/218.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/218.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/219.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/219.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/22.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/22.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/220.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/220.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/222.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/222.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/223.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/223.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/224.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/224.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/225.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/225.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/226.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/226.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/227.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/227.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/23.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/23.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/232.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/232.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/233.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/233.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/234.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/234.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/236.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/236.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/237.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/237.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/238.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/238.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/239.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/239.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/24.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/24.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/240.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/240.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/241.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/241.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/243.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/243.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/244.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/244.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/245.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/245.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/246.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/246.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/247.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/247.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/248.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/248.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/249.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/249.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/25.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/25.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/250.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/250.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/252.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/252.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/253.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/253.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/254.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/254.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/257.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/257.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/26.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/26.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/261.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/261.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/262.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/262.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/263.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/263.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/264.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/264.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/265.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/265.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/267.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/267.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/268.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/268.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/269.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/269.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/27.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/27.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/270.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/270.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/272.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/272.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/273.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/273.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/274.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/274.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/276.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/276.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/277.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/277.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/278.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/278.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/279.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/279.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/282.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/282.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/283.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/283.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/284.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/284.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/285.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/285.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/286.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/286.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/288.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/288.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/289.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/289.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/29.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/29.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/290.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/290.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/292.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/292.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/293.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/293.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/294.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/294.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/296.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/296.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/297.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/297.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/299.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/299.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/3.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/3.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/300.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/300.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/303.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/303.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/305.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/305.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/306.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/306.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/308.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/308.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/309.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/309.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/310.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/310.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/311.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/311.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/312.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/312.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/313.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/313.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/314.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/314.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/315.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/315.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/316.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/316.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/318.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/318.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/32.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/32.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/320.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/320.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/321.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/321.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/323.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/323.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/325.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/325.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/326.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/326.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/327.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/327.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/34.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/34.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/35.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/35.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/37.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/37.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/38.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/38.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/39.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/39.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/42.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/42.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/48.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/48.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/49.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/49.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/50.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/50.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/52.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/52.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/53.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/53.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/54.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/54.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/55.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/55.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/56.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/56.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/57.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/57.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/58.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/58.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/59.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/59.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/6.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/6.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/60.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/60.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/62.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/62.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/64.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/64.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/65.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/65.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/66.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/66.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/67.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/67.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/7.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/7.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/70.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/70.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/76.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/76.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/77.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/77.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/78.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/78.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/79.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/79.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/80.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/80.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/81.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/81.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/84.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/84.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/86.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/86.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/87.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/87.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/88.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/88.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/9.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/9.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/90.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/90.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/91.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/91.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/92.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/92.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/93.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/93.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/94.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/94.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/95.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/95.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/96.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/96.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/97.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/97.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../data_analyzer/tweet_data/99.csv" afterPath="$PROJECT_DIR$/../data_analyzer/tweet_data/99.csv" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/movies.csv" afterPath="$PROJECT_DIR$/output/movies.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/BusinessParser.java" afterPath="$PROJECT_DIR$/src/main/java/BusinessParser.java" />
     </list>
     <ignored path="MovieDataParser.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -233,8 +318,8 @@
       <file leaf-file-name="OmdbParser.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/OmdbParser.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.22073579">
-              <caret line="101" column="14" selection-start-line="101" selection-start-column="14" selection-end-line="101" selection-end-column="14" />
+            <state vertical-scroll-proportion="3.826087">
+              <caret line="115" column="31" selection-start-line="115" selection-start-column="31" selection-end-line="115" selection-end-column="31" />
               <folding />
             </state>
           </provider>
@@ -1058,7 +1143,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -1067,7 +1152,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31038252" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31038252" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32916668" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1796875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -1317,8 +1402,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/OmdbParser.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.22073579">
-          <caret line="101" column="14" selection-start-line="101" selection-start-column="14" selection-end-line="101" selection-end-column="14" />
+        <state vertical-scroll-proportion="3.826087">
+          <caret line="115" column="31" selection-start-line="115" selection-start-column="31" selection-end-line="115" selection-end-column="31" />
           <folding />
         </state>
       </provider>

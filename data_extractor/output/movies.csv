@@ -1,328 +1,335 @@
 id,title,year,released_month,genre,rated,runtime,language,director,writer,main_actor,metascore,rating,votes,budget,gross
-"1","Fifty Shades of Grey","2015","Feb","Drama","R","125","English","Sam Taylor-Johnson","Kelly Marcel","Dakota Johnson","46","41","209,678","40000000","166167230"
-"2","Interstellar","2014","Nov","Adventure","PG-13","169","English","Christopher Nolan","Jonathan Nolan","Ellen Burstyn","74","86","845,024","165000000","188020017"
-"3","Blackhat","2015","Jan","Action","R","133","English","Michael Mann","Morgan Davis Foehl","Chris Hemsworth","51","54","35,637","70000000","7097125"
-"4","Rosewater","2014","Nov","Biography","R","103","English","Jon Stewart","Jon Stewart","Gael García Bernal","67","66","7,698","5000000","3128941"
-"5","God's Pocket","2014","Aug","Crime","R","88","English","John Slattery","Peter Dexter","Christina Hendricks","51","61","6,968","1000000","23400"
-"6","Stonewall","2015","Sep","Drama","R","129","English","Roland Emmerich","Jon Robin Baitz","Joey King","30","41","1,176","13500000","186354"
-"7","Jupiter Ascending","2015","Feb","Action","PG-13","127","English","Andy Wachowski, Lana Wachowski","Andy Wachowski","Mila Kunis","40","54","129,577","176000000","47387723"
-"8","Devil's Due","2014","Jan","Horror","R","89","English","Matt Bettinelli-Olpin, Tyler Gillett","Lindsay Devlin","Allison Miller","34","40","13,458","7000000","15818967"
-"9","How to Train Your Dragon 2","2014","Jun","Animation","PG","102","English","Dean DeBlois","Dean DeBlois","Jay Baruchel","76","79","207,901","145000000","175859659"
-"10","A Million Ways to Die in the West","2014","May","Comedy","R","116","English","Seth MacFarlane","Seth MacFarlane","Seth MacFarlane","44","61","130,286","40000000","42615685"
-"11","Shaun the Sheep Movie","2015","Aug","Animation","PG","85","N/A","Mark Burton, Richard Starzak","Mark Burton","Justin Fletcher","81","74","20,038","25000000","19321230"
-"12","The Gift","2015","Aug","Mystery","R","108","English","Joel Edgerton","Joel Edgerton","Jason Bateman","77","71","64,793","5000000","43771291"
-"13","Inside Out","2015","Jun","Animation","PG","95","English","Pete Docter, Ronnie Del Carmen","Pete Docter","Amy Poehler","94","83","287,471","175000000","356454367"
-"14","Phantom","2015","Mar","History","R","98","English","Todd Robinson","Todd Robinson","Ed Harris","40","58","11,286","7500000","207921"
-"15","Rock the Kasbah","2015","Oct","Comedy","R","106","English","Barry Levinson","Mitch Glazer","Bill Murray","29","55","2,844","15000000","2982281"
-"16","San Andreas","2015","May","Action","PG-13","114","English","Brad Peyton","Carlton Cuse","Dwayne Johnson","43","61","127,213","110000000","155181732"
-"17","The Hobbit: The Battle of the Five Armies","2014","Dec","Adventure","PG-13","144","English","Peter Jackson","Fran Walsh","Ian McKellen","59","75","330,419","250000000","255119788"
-"18","Trainwreck","2015","Jul","Comedy","R","125","English","Judd Apatow","Amy Schumer","Colin Quinn","75","64","76,603","35000000","110008260"
-"19","Left Behind","2014","Oct","Action","PG-13","110","English","Vic Armstrong","Jerry B. Jenkins","Nicolas Cage","12","31","23,215","16000000","6300147"
-"20","The Revenant","2015","Jan","Adventure","R","156","English","Alejandro González Iñárritu","Mark L. Smith","Leonardo DiCaprio","76","82","285,372","135000000","159164599"
-"21","The Book of Life","2014","Oct","Animation","PG","95","English","Jorge R. Gutiérrez","Jorge R. Gutiérrez","Diego Luna","67","73","41,746","50000000","50150619"
-"22","The DUFF","2015","Feb","Comedy","PG-13","101","English","Ari Sandel","Josh A. Cagan","Mae Whitman","56","66","45,821","8500000","34017854"
-"23","Dracula Untold","2014","Oct","Action","PG-13","92","English","Gary Shore","Matt Sazama","Luke Evans","40","63","130,900","70000000","56280355"
-"24","Minions","2015","Jul","Animation","PG","91","English","Kyle Balda, Pierre Coffin","Brian Lynch","Sandra Bullock","56","65","124,840","74000000","336045770"
-"25","Night at the Museum: Secret of the Tomb","2014","Dec","Adventure","PG","98","English","Shawn Levy","David Guion","Ben Stiller","47","62","61,363","127000000","113733726"
-"26","Concussion","2015","Dec","Biography","PG-13","123","English","Peter Landesman","Peter Landesman","Will Smith","55","71","18,046","35000000","34255169"
-"27","Sicario","2015","N/A","Action","R","121","English","Denis Villeneuve","Taylor Sheridan","Emily Blunt","81","77","143,942","30000000","46875468"
-"28","Terminator Genisys","2015","Jul","Action","PG-13","126","English","Alan Taylor","Laeta Kalogridis","Arnold Schwarzenegger","38","66","165,960","155000000","89760956"
-"29","Jem and the Holograms","2015","Oct","Adventure","PG","118","English","Jon M. Chu","Ryan Landels","Aubrey Peeples","42","39","2,516","5000000","2184640"
-"30","This Is Where I Leave You","2014","Sep","Comedy","R","103","English","Shawn Levy","Jonathan Tropper","Jason Bateman","44","66","50,487","19800000","22441091"
-"31","The Amazing Spider-Man 2","2014","May","Action","PG-13","142","English","Marc Webb","Alex Kurtzman","Andrew Garfield","53","68","305,887","200000000","202644001"
-"32","Avengers: Age of Ultron","2015","May","Action","PG-13","141","English","Joss Whedon","Joss Whedon","Robert Downey Jr.","66","75","401,155","250000000","459005868"
-"33","Cantinflas","2014","Sep","Biography","PG","102","Spanish","Sebastian del Amo","Edui Tijerina","Óscar Jaenada","44","67","2,996","3000000","6261369"
-"34","Cake","2014","Jan","Drama","R","102","English","Daniel Barnz","Patrick Tobin","Jennifer Aniston","49","65","24,904","7000000","1873547"
-"35","Vampire Academy","2014","Feb","Action","PG-13","104","English","Mark Waters","Richelle Mead","Zoey Deutch","30","56","39,406","30000000","7791146"
-"36","If I Stay","2014","Aug","Drama","PG-13","107","English","R.J. Cutler","Shauna Cross","Chloë Grace Moretz","46","68","76,515","11000000","49128389"
-"37","Pixels","2015","Jul","Action","PG-13","106","English","Chris Columbus","Tim Herlihy","Adam Sandler","27","57","74,411","88000000","78747585"
-"38","The 5th Wave","2016","Jan","Action","PG-13","112","English","J Blakeson","Susannah Grant","Chloë Grace Moretz","33","56","13,202","38000000","29519370"
-"39","The Interview","2014","Dec","Comedy","R","112","English","Evan Goldberg, Seth Rogen","Dan Sterling","James Franco","52","66","236,530","44000000","6105175"
-"40","While We're Young","2014","Apr","Comedy","R","97","English","Noah Baumbach","Noah Baumbach","Naomi Watts","77","63","27,325","10000000","7574066"
-"41","The Second Best Exotic Marigold Hotel","2015","Mar","Comedy","PG","122","English","John Madden","John Madden","Dev Patel","51","66","19,409","10000000","33071558"
-"42","Paul Blart: Mall Cop 2","2015","Apr","Action","PG","94","English","Andy Fickman","Kevin James","Kevin James","13","44","21,219","30000000","71038190"
-"43","A Walk Among the Tombstones","2014","Sep","Crime","R","114","English","Scott Frank","Scott Frank","Liam Neeson","57","65","82,900","28000000","20830290"
-"44","Manglehorn","2014","Jun","Drama","PG-13","97","English","David Gordon Green","Paul Logan","Al Pacino","56","56","4,181","4000000","132075"
-"45","Locker 13","2014","Mar","Thriller","R","90","English","Bruce Dellis, Jason Marsden, Matthew Mebane, Adam Montierth, Donovan Montierth","Bruce Dellis","Ricky Schroder","22","47","234","300000","2468"
-"46","That Awkward Moment","2014","Jan","Comedy","R","94","English","Tom Gormican","Tom Gormican","Zac Efron","36","61","72,589","8000000","26049082"
-"47","The Hundred-Foot Journey","2014","Aug","Comedy","PG","122","English","Lasse Hallström","Steven Knight","Helen Mirren","55","73","48,655","22000000","52593224"
-"48","The Danish Girl","2015","Jan","Biography","R","119","English","Tom Hooper","David Ebershoff","Alicia Vikander","66","70","52,609","25000000","10613785"
-"49","I, Frankenstein","2014","Jan","Action","PG-13","92","English","Stuart Beattie","Stuart Beattie","Aaron Eckhart","30","52","63,456","65000000","19059018"
-"50","The Night Before","2015","Nov","Comedy","R","101","English","Jonathan Levine","Jonathan Levine","Joseph Gordon-Levitt","58","68","14,863","25000000","43035725"
-"51","Lucky Numbers","2015","Oct","Comedy","R","105","English","Nora Ephron","Adam Resnick","John Travolta","31","50","8,396","2000","4000"
-"52","Straight Outta Compton","2015","Aug","Biography","R","147","English","F. Gary Gray","Jonathan Herman","O'Shea Jackson Jr.","72","80","96,338","28000000","160902085"
-"53","War Room","2015","Aug","Drama","PG","120","English","Alex Kendrick","Alex Kendrick","Karen Abercrombie","26","63","7,131","3000000","67790117"
-"54","The Boy Next Door","2015","Jan","Mystery","R","91","English","Rob Cohen","Barbara Curry","Jennifer Lopez","30","46","24,392","4000000","35385560"
-"55","The Wedding Ringer","2015","Jan","Comedy","R","101","English","Jeremy Garelick","Jeremy Garelick","Kevin Hart","35","67","49,204","23000000","64460211"
-"56","Draft Day","2014","Apr","Drama","R","110","English","Ivan Reitman","Scott Rothman","Chris Berman","54","68","37,010","27000000","28831145"
-"57","Grandma","2015","Sep","Comedy","R","79","English","Paul Weitz","Paul Weitz","Lily Tomlin","77","68","5,131","600000","6975272"
-"58","The Vatican Tapes","2015","Jul","Horror","PG-13","91","English","Mark Neveldine","Chris Morgan","Olivia Taylor Dudley","37","45","5,770","8495000","1712111"
-"59","Spectre","2015","Nov","Action","PG-13","148","English","Sam Mendes","John Logan","Daniel Craig","60","69","229,683","245000000","199591466"
-"60","St. Vincent","2014","Oct","Comedy","PG-13","102","English","Theodore Melfi","Theodore Melfi","Bill Murray","64","73","68,462","13000000","44134898"
-"61","A Lego Brickumentary","2014","Jul","Documentary","G","93","English","Kief Davidson, Daniel Junge","Daniel Junge","Jason Bateman","51","67","975","1000000","100240"
-"62","Nightcrawler","2014","Oct","Crime","R","117","English","Dan Gilroy","Dan Gilroy","Jake Gyllenhaal","76","79","273,041","8500000","32279955"
-"63","Hitman: Agent 47","2015","Aug","Action","R","96","English","Aleksander Bach","Skip Woods","Angelababy","28","58","51,744","35000000","22464430"
-"64","Fantastic Four","2015","Jul","Action","PG-13","106","English","Tim Story","Mark Frost","Ioan Gruffudd","40","57","258,549","120000000","56117548"
-"65","It Follows","2014","Mar","Horror","R","100","English","David Robert Mitchell","David Robert Mitchell","Bailey Spry","83","69","95,103","2000000","14673301"
-"66","The Woman in Black 2: Angel of Death","2014","Jan","Drama","PG-13","98","English","Tom Harper","Jon Croker","Phoebe Fox","42","49","17,837","1000000","26496583"
-"67","Pan","2015","Oct","Adventure","PG","111","English","Joe Wright","Jason Fuchs","Hugh Jackman","36","59","28,997","150000000","34964818"
-"68","Wish I Was Here","2014","Jul","Comedy","R","106","English","Zach Braff","Adam J. Braff","Zach Braff","43","67","27,378","6000000","3054075"
-"69","A Most Wanted Man","2014","Aug","Crime","R","122","English","Anton Corbijn","Andrew Bovell","Grigoriy Dobrygin","73","68","54,710","15000000","17053959"
-"70","Magic Mike XXL","2015","Jul","Comedy","R","115","English","Gregory Jacobs","Reid Carolin","Channing Tatum","60","57","32,818","14800000","66009973"
-"71","Samba","2014","Oct","Comedy","R","118","French","Olivier Nakache, Eric Toledano","Eric Toledano","Omar Sy","53","67","9,034","20000000","149805"
-"72","Pitch Perfect 2","2015","May","Comedy","PG-13","115","English","Elizabeth Banks","Kay Cannon","Anna Kendrick","63","65","84,121","29000000","183436380"
-"73","3 Days to Kill","2014","Feb","Action","PG-13","117","English","McG","Adi Hasak","Kevin Costner","40","62","66,429","28000000","30697999"
-"74","The Longest Ride","2015","Apr","Drama","PG-13","128","English","George Tillman Jr.","Nicholas Sparks","Britt Robertson","33","71","42,134","34000000","37432299"
-"75","Beyond the Lights","2014","Nov","Drama","PG-13","116","English","Gina Prince-Bythewood","Gina Prince-Bythewood","Gugu Mbatha-Raw","73","69","10,201","7000000","14612840"
-"76","Maleficent","2014","May","Action","PG","97","English","Robert Stromberg","Linda Woolverton","Angelina Jolie","56","70","240,316","180000000","241410378"
-"77","Earth to Echo","2014","Jul","Adventure","PG","91","English","Dave Green","Henry Gayden","Teo Halm","53","58","14,930","13000000","38753987"
-"78","The Pyramid","2014","Dec","Action","R","89","English","Grégory Levasseur","Daniel Meersand","Ashley Hinshaw","24","47","15,603","6500000","2756333"
-"79","The Hateful Eight","2015","Dec","Crime","R","187","English","Quentin Tarantino","Quentin Tarantino","Samuel L. Jackson","68","80","166,614","62000000","53007830"
-"80","The Ghouls","2015","Mar","Horror","R","81","English","Chad Ferrin","Chad Ferrin","Timothy Muskatell","N/A","41","415","37000000","816974"
-"81","Woman in Gold","2015","Apr","Biography","PG-13","109","English","Simon Curtis","Alexi Kaye Campbell","Helen Mirren","51","73","29,083","11000000","33305037"
-"82","The Disappearance of Eleanor Rigby: Them","2014","Sep","Drama","R","123","English","Ned Benson","Ned Benson","James McAvoy","57","64","7,577","3000000","436251"
-"83","Life Is a Dream","2014","Dec","Drama","NOT RATED","100","French","Raoul Ruiz","Raoul Ruiz","Sylvain Thirolle","N/A","72","69","500000","850000"
-"84","Cinderella","2015","Mar","Animation","APPROVED","74","English","Clyde Geronimi, Wilfred Jackson, Hamilton Luske","Charles Perrault","Ilene Woods","N/A","73","99,040","95000000","201148159"
-"85","Demonic","2015","Feb","Horror","R","83","English","Will Canon","Max La Bella","Maria Bello","N/A","53","6,359","3000000","3387774"
-"86","Strangerland","2015","Jul","Drama","R","112","English","Kim Farrant","Michael Kinirons","Nicole Kidman","42","52","5,087","10000000","17472"
-"87","Mr. Peabody & Sherman","2014","Mar","Animation","PG","92","English","Rob Minkoff","Jay Ward","Ty Burrell","59","69","45,317","145000000","111392580"
-"88","American Sniper","2014","Jan","Action","R","133","English","Clint Eastwood","Jason Hall","Bradley Cooper","72","73","301,563","58800000","350126372"
-"89","Pompeii","2014","Feb","Action","PG-13","105","English","Paul W.S. Anderson","Janet Scott Batchler","Kit Harington","39","56","81,197","100000000","23219748"
-"90","No Good Deed","2014","Sep","Crime","PG-13","84","English","Sam Miller","Aimee Lagos","Idris Elba","26","56","11,881","13200000","46532221"
-"91","Aloft","2014","Jan","Drama","R","112","English","Claudia Llosa","Claudia Llosa","Jennifer Connelly","34","53","1,810","8000000","52961"
-"92","Inherent Vice","2014","Jan","Comedy","R","148","English","Paul Thomas Anderson","Paul Thomas Anderson","Joanna Newsom","81","67","56,602","20000000","8110975"
-"93","Ant-Man","2015","Jul","Action","PG-13","117","English","Peyton Reed","Edgar Wright","Paul Rudd","64","74","252,344","130000000","180202163"
-"94","Honeymoon","2014","Sep","Horror","R","87","English","Leigh Janiak","Phil Graziadei","Rose Leslie","65","56","15,210","1000000","7959"
-"95","Mission: Impossible - Rogue Nation","2015","Jul","Action","PG-13","131","English","Christopher McQuarrie","Christopher McQuarrie","Tom Cruise","75","75","207,337","150000000","195042377"
-"96","Tusk","2014","Sep","Comedy","R","102","English","Kevin Smith","Kevin Smith","Michael Parks","55","54","28,788","2800000","1427014"
-"97","I Smile Back","2015","Nov","Drama","R","85","English","Adam Salky","Paige Dylan","Josh Charles","59","60","2,218","495000","57678"
-"98","Edge of Tomorrow","2014","Jun","Action","PG-13","113","English","Doug Liman","Christopher McQuarrie","Tom Cruise","71","79","404,164","178000000","99992247"
-"99","Kung Fu Panda 3","2016","Jan","Animation","PG","95","English","Alessandro Carloni, Jennifer Yuh","Jonathan Aibel","Jack Black","65","76","12,433","145000000","93912387"
-"100","Godzilla","2014","May","Action","PG-13","123","English","Gareth Edwards","Max Borenstein","Aaron Taylor-Johnson","62","65","292,251","160000000","200616740"
-"101","The Forest","2016","Jan","Horror","PG-13","93","English","Jason Zada","Nick Antosca","Natalie Dormer","34","50","5,123","10000000","26387046"
-"102","Better Living Through Chemistry","2014","Mar","Comedy","NOT RATED","91","English","Geoff Moore, David Posamentier","Geoff Moore","Sam Rockwell","40","63","10,446","5000000","72273"
-"103","Everest","2015","Sep","Adventure","PG-13","121","English","Baltasar Kormákur","William Nicholson","Jason Clarke","64","71","106,049","55000000","43482270"
-"104","Goosebumps","2015","Oct","Adventure","PG","103","English","Rob Letterman","Darren Lemke","Jack Black","60","64","31,810","58000000","80021740"
-"105","Jane Got a Gun","2015","Jan","Action","R","98","English","Gavin O'Connor","Brian Duffield","Natalie Portman","50","60","1,019","25000000","1397284"
-"106","Into the Storm","2014","Aug","Action","PG-13","89","English","Steven Quale","John Swetnam","Richard Armitage","44","58","52,299","50000000","47602194"
-"107","Un gallo con muchos huevos","2015","Sep","Animation","PG-13","98","Spanish","Gabriel Riva Palacio Alatriste, Rodolfo Riva-Palacio Alatriste","Marqus Bobesich","Bruno Bichir","N/A","60","505","5300000","9019864"
-"108","Warrior Princess","2014","Sep","Action","R","95","English","Shuudertsetseg Baatarsuren","Shuudertsetseg Baatarsuren","Batmend Baast","N/A","45","105","800000","3000000"
-"109","Hot Tub Time Machine 2","2015","Feb","Comedy","R","93","English","Steve Pink","Josh Heald","Rob Corddry","29","51","25,476","14000000","12282677"
-"110","Happy Christmas","2014","Jun","Comedy","R","82","English","Joe Swanberg","Joe Swanberg","Anna Kendrick","70","56","5,242","70000","30312"
-"111","The Babadook","2014","Nov","Drama","NOT RATED","93","English","Jennifer Kent","Jennifer Kent","Essie Davis","86","69","99,702","2000000","924279"
-"112","Sinister 2","2015","Aug","Horror","R","97","English","Ciarán Foy","Scott Derrickson","James Ransone","32","53","20,003","10000000","27642169"
-"113","Love the Coopers","2015","Nov","Comedy","PG-13","107","English","Jessie Nelson","Steven Rogers","Steve Martin","31","57","6,897","17000000","26284475"
-"114","Focus","2015","Feb","Comedy","R","105","English","Glenn Ficarra, John Requa","Glenn Ficarra","Will Smith","56","66","133,448","50100000","53846915"
-"115","Hotel Transylvania 2","2015","Sep","Animation","PG","89","English","Genndy Tartakovsky","Robert Smigel","Adam Sandler","44","68","41,918","80000000","169611752"
-"116","Paranormal Activity: The Marked Ones","2014","Jan","Fantasy","R","84","English","Christopher Landon","Christopher Landon","Andrew Jacobs","42","50","30,534","5000000","32453345"
-"117","Lazer Team","2015","Jan","Action","PG-13","102","English","Matt Hullum","Burnie Burns","Burnie Burns","42","59","4,618","2480421","1149878"
-"118","The Gunman","2015","Mar","Action","R","115","English","Pierre Morel","Jean-Patrick Manchette","Sean Penn","39","58","25,196","40000000","10640645"
-"119","Step Up All In","2014","Aug","Drama","PG-13","112","English","Trish Sie","Duane Adler","Ryan Guzman","45","60","23,820","45000000","14897580"
-"120","10 Days in a Madhouse","2015","Nov","Drama","R","111","English","Timothy Hines","Timothy Hines","Caroline Barry","N/A","85","232","12000000","14616"
-"121","Aloha","2015","May","Comedy","PG-13","105","English","Cameron Crowe","Cameron Crowe","Bradley Cooper","40","55","34,947","37000000","20991497"
-"122","The Intern","2015","Sep","Comedy","PG-13","121","English","Nancy Meyers","Nancy Meyers","Robert De Niro","51","72","98,627","35000000","75274748"
-"123","A Most Violent Year","2014","Jan","Action","R","125","English","J.C. Chandor","J.C. Chandor","Oscar Isaac","79","70","41,834","20000000","5749134"
-"124","Savage High","2016","Oct","Drama","NOT RATED","92","English","Manny Velazquez","Manny Velazquez","Alen Rios","N/A","N/A","N/A","10000","350"
-"125","The Legend of Hercules","2014","Jan","Action","PG-13","99","English","Renny Harlin","Sean Hood","Kellan Lutz","22","42","43,476","70000000","18821279"
-"126","The Monuments Men","2014","Feb","Drama","PG-13","118","English","George Clooney","George Clooney","George Clooney","52","61","97,964","70000000","77951843"
-"127","Above and Beyond","2014","Jan","Action","APPROVED","122","English","Melvin Frank, Norman Panama","Beirne Lay Jr.","Robert Taylor","N/A","70","785","1300000","287697"
-"128","The Expendables 3","2014","Aug","Action","PG-13","126","English","Patrick Hughes","Sylvester Stallone","Sylvester Stallone","35","61","120,130","90000000","38988855"
-"129","Winter's Tale","2014","Feb","Drama","PG-13","118","English","Akiva Goldsman","Akiva Goldsman","Colin Farrell","31","62","39,546","60000000","22451"
-"130","Point Break","2015","Jul","Action","R","122","English","Kathryn Bigelow","Rick King","Patrick Swayze","58","72","106,126","105000000","28617282"
-"131","The Boxtrolls","2014","Sep","Animation","PG","96","English","Graham Annable, Anthony Stacchi","Irena Brignull","Ben Kingsley","61","68","38,141","60000000","50807639"
-"132","Hercules","2014","Jun","Animation","G","93","English","Ron Clements, John Musker","Ron Clements","Tate Donovan","N/A","72","133,564","100000000","72385417"
-"133","Kingsman: The Secret Service","2014","Feb","Action","R","129","English","Matthew Vaughn","Jane Goldman","Adrian Quinton","58","78","361,155","81000000","128248205"
-"134","The Visit","2015","Sep","Horror","PG-13","94","English","M. Night Shyamalan","M. Night Shyamalan","Olivia DeJonge","55","62","51,526","5000000","65069140"
-"135","Star Wars: Episode VII - The Force Awakens","2015","Dec","Action","PG-13","135","English","J.J. Abrams","Lawrence Kasdan","Harrison Ford","81","84","435,197","200000000","914838964"
-"136","Seventh Son","2014","Feb","Action","PG-13","102","English","Sergey Bodrov","Charles Leavitt","Jeff Bridges","30","55","50,373","95000000","17223265"
-"137","The Drop","2014","Sep","Crime","R","106","English","Michaël R. Roskam","Dennis Lehane","Tom Hardy","69","71","99,585","12600000","10724389"
-"138","Guardians of the Galaxy","2014","Aug","Action","PG-13","121","English","James Gunn","James Gunn","Chris Pratt","76","81","621,608","170000000","333176600"
-"139","Jurassic World","2015","Jun","Action","PG-13","124","English","Colin Trevorrow","Rick Jaffa","Chris Pratt","59","71","380,404","150000000","652270625"
-"140","Chappie","2015","Mar","Action","R","120","English","Neill Blomkamp","Neill Blomkamp","Sharlto Copley","41","69","158,751","49000000","31569268"
-"141","Home","2015","Mar","Animation","PG","94","English","Tim Johnson","Tom J. Astle","Jim Parsons","55","67","62,163","135000000","177397510"
-"142","Room","2015","Jan","Drama","R","118","English","Lenny Abrahamson","Emma Donoghue","Brie Larson","86","83","98,027","6000000","13538053"
-"143","Maps to the Stars","2014","Feb","Comedy","R","111","English","David Cronenberg","Bruce Wagner","Julianne Moore","67","63","26,326","15000000","347648"
-"144","Child 44","2015","Apr","Crime","R","137","English","Daniel Espinosa","Richard Price","Xavier Atkins","41","64","34,796","50000000","1206135"
-"145","Exodus: Gods and Kings","2014","Dec","Action","PG-13","150","English","Ridley Scott","Adam Cooper","Christian Bale","52","61","120,720","140000000","65014513"
-"146","Suffragette","2015","Oct","Biography","PG-13","106","English","Sarah Gavron","Abi Morgan","Anne-Marie Duff","67","69","13,771","14000000","4693356"
-"147","Infinitely Polar Bear","2014","Jun","Comedy","R","90","English","Maya Forbes","Maya Forbes","Mark Ruffalo","64","70","6,545","6700000","1428647"
-"148","Dolphin Tale 2","2014","Sep","Drama","PG","107","English","Charles Martin Smith","Charles Martin Smith","Morgan Freeman","58","64","5,696","36000000","33618190"
-"149","Big Hero 6","2014","Nov","Animation","PG","102","English","Don Hall, Chris Williams","Jordan Roberts","Scott Adsit","74","79","247,463","165000000","222487711"
-"150","Not Cool","2014","Sep","Comedy","NOT RATED","93","English","Shane Dawson","Dan Schoffer","Shane Dawson","1","52","3,978","600000","35688"
-"151","Sisters","2015","Dec","Comedy","R","118","English","Jason Moore","Paula Pell","Amy Poehler","58","62","20,899","30000000","86535790"
-"152","X-Men: Days of Future Past","2014","May","Action","PG-13","132","English","Bryan Singer","Simon Kinberg","Hugh Jackman","74","80","475,053","200000000","233921534"
-"153","American Ultra","2015","Aug","Action","R","96","English","Nima Nourizadeh","Max Landis","Jesse Eisenberg","50","61","44,683","28000000","14434604"
-"154","Muppets Most Wanted","2014","Mar","Adventure","PG","107","English","James Bobin","James Bobin","Ricky Gervais","61","65","23,290","50000000","51178893"
-"155","Alexander and the Terrible, Horrible, No Good, Very Bad Day","2014","Oct","Comedy","PG","81","English","Miguel Arteta","Rob Lieber","Steve Carell","54","62","27,800","28000000","66950483"
-"156","Horrible Bosses 2","2014","Nov","Comedy","R","108","English","Sean Anders","Sean Anders","Jason Bateman","40","63","105,376","42000000","54414716"
-"157","90 Minutes in Heaven","2015","Sep","Drama","PG-13","121","English","Michael Polish","Don Piper","Hayden Christensen","28","46","1,680","5000000","4700361"
-"158","Whiplash","2014","Oct","Drama","R","107","English","Damien Chazelle","Damien Chazelle","Miles Teller","88","85","358,966","3300000","13092000"
-"159","13 Sins","2014","Apr","Horror","R","93","English","Daniel Stamm","David Birke","Mark Webber","44","63","22,250","4000000","9134"
-"160","When the Game Stands Tall","2014","Aug","Drama","PG","115","English","Thomas Carter","Scott Marshall Smith","Jim Caviezel","41","67","11,817","15000000","29224234"
-"161","Danny Collins","2015","Apr","Comedy","R","106","English","Dan Fogelman","Dan Fogelman","Al Pacino","58","71","18,347","10000000","5348317"
-"162","Project Almanac","2015","Jan","Sci-Fi","PG-13","106","English","Dean Israelite","Jason Pagan","Jonny Weston","47","64","52,591","12000000","22331028"
-"163","My Old Lady","2014","Nov","Comedy","PG-13","107","English","Israel Horovitz","Israel Horovitz","Kevin Kline","52","63","5,125","5000000","1474563"
-"164","Penguins of Madagascar","2014","Nov","Animation","PG","92","English","Eric Darnell, Simon J. Smith","Michael Colton","Tom McGrath","53","67","56,726","132000000","83348920"
-"165","How to Be Single","2016","Feb","Comedy","R","110","English","Christian Ditter","Abby Kohn","Dakota Johnson","51","63","5,292","38000000","18750000"
-"166","The Gallows","2015","Jul","Horror","R","81","English","Travis Cluff, Chris Lofing","Travis Cluff","Reese Mishler","30","43","11,177","100000","22757819"
-"167","Ouija","2014","Oct","Horror","PG-13","89","English","Stiles White","Juliet Snowden","Olivia Cooke","38","44","29,590","5000000","50856010"
-"168","Jack Ryan: Shadow Recruit","2014","Jan","Action","PG-13","105","English","Kenneth Branagh","Adam Cozad","Chris Pine","57","62","95,838","60000000","50549107"
-"169","The Maze Runner","2014","Sep","Action","PG-13","113","English","Wes Ball","Noah Oppenheim","Dylan O'Brien","56","68","293,462","34000000","102413606"
-"170","Escobar: Paradise Lost","2014","Jun","Crime","R","120","English","Andrea Di Stefano","Andrea Di Stefano","Benicio Del Toro","56","66","12,318","17000000","106869"
-"171","Sabotage","2014","Mar","Action","R","109","English","David Ayer","Skip Woods","Arnold Schwarzenegger","41","57","45,389","35000000","10508518"
-"172","Final Girl","2015","Aug","Action","R","90","English","Tyler Shields","Adam Prince","Abigail Breslin","N/A","46","5,533","8000000","5500000"
-"173","Hail, Caesar!","2016","Feb","Comedy","PG-13","106","English","Ethan Coen, Joel Coen","Joel Coen","Josh Brolin","72","68","22,306","22000000","21354970"
-"174","Black Mass","2015","Sep","Biography","R","123","English","Scott Cooper","Mark Mallouk","Johnny Depp","68","70","86,586","65000000","62563543"
-"175","Maze Runner: The Scorch Trials","2015","Sep","Action","PG-13","132","English","Wes Ball","T.S. Nowlin","Dylan O'Brien","43","64","111,679","61000000","81687587"
-"176","Run All Night","2015","Mar","Action","R","114","English","Jaume Collet-Serra","Brad Ingelsby","Liam Neeson","59","66","68,905","50000000","26442251"
-"177","Paranormal Activity: The Ghost Dimension","2015","Oct","Horror","R","88","English","Gregory Plotkin","Jason Pagan","Chris J. Murray","30","45","11,713","10000000","18247445"
-"178","Son of God","2014","Feb","Biography","PG-13","138","English","Christopher Spencer","Richard Bedser","Sebastian Knapp","37","55","14,827","22000000","59666589"
-"179","The Peanuts Movie","2015","Nov","Animation","G","88","English","Steve Martino","Bryan Schulz","Trombone Shorty","67","73","18,928","99000000","129984193"
-"180","Anomalisa","2015","Jan","Animation","R","90","English","Duke Johnson, Charlie Kaufman","Charlie Kaufman","David Thewlis","88","75","15,639","8000000","2233178"
-"181","Skin Trade","2014","Apr","Action","R","96","English","Ekachai Uekrongtham","Steven Elder","Dolph Lundgren","39","57","4,677","9000000","1242"
-"182","22 Jump Street","2014","Jun","Action","R","112","English","Phil Lord, Christopher Miller","Michael Bacall","Jonah Hill","71","71","243,361","50000000","188441614"
-"183","A Long Way Off","2014","Jun","Drama","PG","105","English","Michael Davis, John Errington","Jon Macy","Robert Davi","N/A","46","107","500000","27013"
-"184","Fifty Shades of Black","2016","Jan","Comedy","R","92","English","Michael Tiddes","Marlon Wayans","Marlon Wayans","28","34","3,035","5500000","9371544"
-"185","Annabelle","2014","Oct","Horror","R","99","English","John R. Leonetti","Gary Dauberman","Annabelle Wallis","37","54","73,657","6500000","84027366"
-"186","Tomorrow","2016","Sep","Drama","PG","103","English","Joseph Anthony","William Faulkner","Robert Duvall","N/A","78","753","2000","1447"
-"187","Creed","2015","Nov","Drama","PG-13","133","English","Ryan Coogler","Ryan Coogler","Michael B. Jordan","82","78","97,797","35000000","108988796"
-"188","The SpongeBob Movie: Sponge Out of Water","2015","Feb","Animation","PG","92","English","Paul Tibbitt, Mike Mitchell","Glenn Berger","Antonio Banderas","62","60","31,734","74000000","162495848"
-"189","The Theory of Everything","2014","Nov","Biography","PG-13","123","English","James Marsh","Anthony McCarten","Eddie Redmayne","72","77","244,595","15000000","35887263"
-"190","God's Not Dead","2014","Mar","Drama","PG","113","English","Harold Cronk","Hunter Dennis","Kevin Sorbo","16","50","28,133","2000000","60753735"
-"191","Unfinished Business","2015","Mar","Comedy","R","91","English","Ken Scott","Steve Conrad","Vince Vaughn","32","54","20,531","35000000","10214013"
-"192","Planes: Fire & Rescue","2014","Jul","Animation","PG","83","English","Roberts Gannaway","Roberts Gannaway","Dane Cook","48","60","11,710","50000000","58646919"
-"193","Sin City: A Dame to Kill For","2014","Aug","Crime","R","102","English","Frank Miller, Robert Rodriguez","Frank Miller","Mickey Rourke","46","65","103,177","65000000","13757804"
-"194","Teenage Mutant Ninja Turtles","2014","Aug","Action","PG-13","101","English","Jonathan Liebesman","Josh Appelbaum","Megan Fox","31","59","157,045","125000000","191204754"
-"195","Let's Be Cops","2014","Aug","Comedy","R","104","English","Luke Greenfield","Luke Greenfield","Jake Johnson","30","65","101,760","17000000","79628884"
-"196","Scouts Guide to the Zombie Apocalypse","2015","Oct","Action","R","93","English","Christopher Landon","Carrie Lee Wilson","Tye Sheridan","32","63","17,684","15000000","3635292"
-"197","John Wick","2014","Oct","Action","R","101","English","Chad Stahelski, David Leitch","Derek Kolstad","Keanu Reeves","68","72","230,206","20000000","43037835"
-"198","Our Brand Is Crisis","2015","Oct","Comedy","R","107","English","David Gordon Green","Peter Straughan","Sandra Bullock","53","60","5,244","28000000","6998324"
-"199","Jersey Boys","2014","Jun","Biography","R","134","English","Clint Eastwood","Marshall Brickman","Vincent Piazza","54","69","24,112","40000000","46222854"
-"200","Insurgent","2015","Mar","Adventure","PG-13","119","English","Robert Schwentke","Brian Duffield","Kate Winslet","42","63","135,211","110000000","129995817"
-"201","Deadpool","2016","Feb","Action","R","108","English","Tim Miller","Rhett Reese","Ryan Reynolds","65","86","145,561","58000000","135050000"
-"202","Captain America: The Winter Soldier","2014","Apr","Action","PG-13","136","English","Anthony Russo, Joe Russo","Christopher Markus","Chris Evans","70","78","444,741","170000000","259766572"
-"203","Legend","2015","Nov","Biography","R","132","English","Brian Helgeland","Brian Helgeland","Paul Anderson","55","70","65,759","30000000","1872994"
-"204","Brothers","2015","Dec","Drama","R","105","English","Jim Sheridan","David Benioff","Tobey Maguire","58","71","85,404","10205000","266175"
-"205","Dawn of the Planet of the Apes","2014","Jul","Action","PG-13","130","English","Matt Reeves","Mark Bomback","Andy Serkis","79","76","303,214","170000000","208545589"
-"206","Endless Love","2014","Feb","Drama","PG-13","104","English","Shana Feste","Shana Feste","Alex Pettyfer","30","63","29,176","20000000","23393765"
-"207","Ricki and the Flash","2015","Aug","Comedy","PG-13","101","English","Jonathan Demme","Diablo Cody","Meryl Streep","54","60","11,217","18000000","26822144"
-"208","The Imitation Game","2014","Dec","Biography","PG-13","114","English","Morten Tyldum","Graham Moore","Benedict Cumberbatch","73","81","423,456","14000000","91121452"
-"209","Deliver Us from Evil","2014","Jul","Horror","R","118","English","Scott Derrickson","Scott Derrickson","Eric Bana","40","62","51,729","30000000","30523568"
-"210","Max","2015","Jun","Adventure","PG","111","English","Boaz Yakin","Boaz Yakin","Thomas Haden Church","47","68","15,712","20000000","42652003"
-"211","Paper Towns","2015","Jul","Drama","PG-13","109","English","Jake Schreier","John Green","Nat Wolff","56","64","52,522","12000000","31990064"
-"212","The Gambler","2014","Dec","Crime","R","111","English","Rupert Wyatt","William Monahan","Mark Wahlberg","55","60","45,381","25000000","33631221"
-"213","Heaven Is for Real","2014","Apr","Drama","PG","99","English","Randall Wallace","Randall Wallace","Greg Kinnear","47","58","20,049","12000000","91386097"
-"214","The Lego Movie","2014","Feb","Animation","PG","100","English","Phil Lord, Christopher Miller","Phil Lord","Will Arnett","83","78","236,500","60000000","257716507"
-"215","Americons","2015","Jan","Action","R","88","English","Theo Avgerinos","Beau Martin Williams (writer","Beau Martin Williams","25","69","59","400000","122410"
-"216","Boyhood","2014","Aug","Drama","R","165","English","Richard Linklater","Richard Linklater","Ellar Coltrane","100","80","253,937","4000000","25359200"
-"217","Fury","2014","Oct","Action","R","134","English","David Ayer","David Ayer","Brad Pitt","64","76","281,882","68000000","85817906"
-"218","The Fault in Our Stars","2014","Jun","Drama","PG-13","126","English","Josh Boone","Scott Neustadter","Shailene Woodley","69","79","232,083","12000000","124853062"
-"219","Annie","2014","Jun","Comedy","PG","127","English","John Huston","Carol Sobieski","Albert Finney","39","65","29,539","65000000","85911262"
-"220","Sex Tape","2014","Jul","Comedy","R","94","English","Jake Kasdan","Kate Angelo","Cameron Diaz","36","51","80,669","40000000","33880665"
-"221","Alive Inside","2014","Oct","Documentary","NOT RATED","78","English","Michael Rossato-Bennett","Michael Rossato-Bennett","Dan Cohen","67","82","1,828","600000","7200"
-"222","Maggie","2015","May","Drama","PG-13","95","English","Henry Hobson","John Scott 3","Arnold Schwarzenegger","52","56","26,541","8500000","187112"
-"223","The Last Witch Hunter","2015","Oct","Action","PG-13","106","English","Breck Eisner","Cory Goodman","Vin Diesel","34","60","40,628","75000000","27356090"
-"224","And So It Goes","2014","Jul","Comedy","PG-13","94","English","Rob Reiner","Mark Andrus","Michael Douglas","38","57","8,295","30000000","15155772"
-"225","Neighbors","2014","May","Comedy","R","97","English","Nicholas Stoller","Andrew Jay Cohen","Seth Rogen","68","64","201,004","18000000","149771255"
-"226","The Good Lie","2014","Nov","Drama","PG-13","110","English","Philippe Falardeau","Margaret Nagle","Reese Witherspoon","65","74","18,158","20000000","841422"
-"227","The Signal","2014","Jul","Sci-Fi","PG-13","97","English","William Eubank","Carlyle Eubank","Patrick Davidson","54","61","45,175","4000000","600896"
-"228","WARx2","2014","Apr","Documentary","PG-13","117","English","Bernie Olaf","Bernie Olaf","Betty Adams","N/A","93","2,024","3000000","39705"
-"229","The Hunger Games: Mockingjay - Part 1","2014","Nov","Adventure","PG-13","123","English","Francis Lawrence","Peter Craig","Jennifer Lawrence","64","67","280,510","125000000","337135885"
-"230","The November Man","2014","Aug","Action","R","108","English","Roger Donaldson","Michael Finch","Pierce Brosnan","38","63","47,052","15000000","24823474"
-"231","The Hunger Games: Mockingjay - Part 2","2015","Nov","Adventure","PG-13","137","English","Francis Lawrence","Peter Craig","Jennifer Lawrence","65","69","97,247","160000000","280976000"
-"232","In the Heart of the Sea","2015","Dec","Action","PG-13","122","English","Ron Howard","Charles Leavitt","Chris Hemsworth","47","70","33,186","100000000","24985612"
-"233","The Lazarus Effect","2015","Feb","Horror","PG-13","83","English","David Gelb","Luke Dawson","Mark Duplass","31","52","25,797","3300000","25799043"
-"234","Me and Earl and the Dying Girl","2015","Jul","Comedy","PG-13","105","English","Alfonso Gomez-Rejon","Jesse Andrews","Thomas Mann","74","78","63,167","8000000","6743776"
-"235","Foxcatcher","2014","Jan","Biography","R","134","English","Bennett Miller","E. Max Frye","Steve Carell","81","70","100,844","24000000","12096300"
-"236","Divergent","2014","Mar","Adventure","PG-13","139","English","Neil Burger","Evan Daugherty","Shailene Woodley","48","68","321,438","85000000","150947895"
-"237","RoboCop","2014","Feb","Action","PG-13","117","English","José Padilha","Joshua Zetumer","Joel Kinnaman","52","62","177,042","100000000","58607007"
-"238","Into the Woods","2014","Dec","Adventure","PG","125","English","Rob Marshall","James Lapine","Anna Kendrick","69","60","95,095","50000000","128002372"
-"239","Transformers: Age of Extinction","2014","Jun","Action","PG-13","165","English","Michael Bay","Ehren Kruger","Mark Wahlberg","32","57","231,442","210000000","245439076"
-"240","The Duke of Burgundy","2014","Jan","Drama","UNRATED","104","English","Peter Strickland","Peter Strickland","Chiara D'Anna","87","67","6,107","1000000","32630"
-"241","The Other Woman","2014","Apr","Comedy","PG-13","109","English","Nick Cassavetes","Melissa Stack","Cameron Diaz","39","60","99,889","40000000","83892218"
-"242","99 Homes","2014","Oct","Drama","R","112","English","Ramin Bahrani","Ramin Bahrani","Michael Shannon","76","72","9,370","5000000","1410915"
-"243","By the Sea","2015","Dec","Drama","R","122","English","Angelina Jolie","Angelina Jolie","Brad Pitt","44","52","4,534","10000000","531009"
-"244","The Rover","2014","Jun","Crime","R","103","English","David Michôd","Joel Edgerton","Guy Pearce","64","64","32,458","12250000","1089150"
-"245","Non-Stop","2014","Feb","Action","PG-13","106","English","Jaume Collet-Serra","John W. Richardson","Liam Neeson","56","70","191,961","50000000","92168600"
-"246","The One I Love","2014","Aug","Comedy","R","91","English","Charlie McDowell","Justin Lader","Mark Duplass","66","71","21,159","100000","500689"
-"247","Little Boy","2015","Apr","Drama","PG-13","106","English","Alejandro Monteverde","Alejandro Monteverde","Ted Levine","30","74","13,768","30000000","6420319"
-"248","Plan B","2014","May","Comedy","NOT RATED","103","Spanish","Marco Berger","Marco Berger","Manuel Vignau","N/A","72","2,754","50000","5000"
-"249","Ted 2","2015","Jun","Comedy","R","115","English","Seth MacFarlane","Seth MacFarlane","Mark Wahlberg","48","64","98,958","68000000","81257500"
-"250","Bridge of Spies","2015","Oct","Biography","PG-13","142","English","Steven Spielberg","Matt Charman","Mark Rylance","81","77","112,329","40000000","72051548"
-"251","The Loft","2014","Jan","Mystery","R","108","English","Erik Van Looy","Bart De Pauw","Karl Urban","24","63","30,112","14000000","5981749"
-"252","Need for Speed","2014","Mar","Action","PG-13","132","English","Scott Waugh","George Gatins","Aaron Paul","39","65","131,930","66000000","43577636"
-"253","My All American","2015","Nov","Biography","PG","118","English","Angelo Pizzo","Angelo Pizzo","Aaron Eckhart","34","69","1,222","20000000","2246000"
-"254","Selma","2014","Jan","Biography","PG-13","128","English","Ava DuVernay","Paul Webb","David Oyelowo","89","75","56,835","20000000","52066000"
-"255","God Help the Girl","2014","Sep","Drama","UNRATED","112","English","Stuart Murdoch","Stuart Murdoch","Emily Browning","58","64","6,024","1850000","97919"
-"256","Best of Enemies","2015","Jul","Documentary","R","87","English","Robert Gordon, Morgan Neville","Robert Gordon","Paul Newman","77","76","2,659","1000000","891997"
-"257","Get Hard","2015","Mar","Comedy","R","100","English","Etan Cohen","Jay Martel","Will Ferrell","34","61","74,947","40000000","90353764"
-"258","The Water Diviner","2014","Dec","Drama","R","111","English","Russell Crowe","Andrew Knight","Russell Crowe","50","71","49,376","22500000","4190530"
-"259","Black or White","2014","Jan","Drama","PG-13","121","English","Mike Binder","Mike Binder","Kevin Costner","45","66","7,216","9000000","21569041"
-"260","Hollidaysburg","2014","Sep","Comedy","NOT RATED","88","English","Anna Martemucci","Dan Schoffer","Rachel Keller","N/A","57","753","600000","3709"
-"261","The Martian","2015","Oct","Adventure","PG-13","144","English","Ridley Scott","Drew Goddard","Matt Damon","80","81","383,169","108000000","228120056"
-"262","The Big Short","2015","Dec","Biography","R","130","English","Adam McKay","Charles Randolph","Ryan Gosling","81","79","106,723","28000000","63660681"
-"263","Ride Along 2","2016","Jan","Action","PG-13","102","English","Tim Story","Phil Hay","Ice Cube","32","59","10,186","40000000","82661235"
-"264","Spy","2015","Jun","Action","R","119","English","Paul Feig","Paul Feig","Jude Law","75","71","141,626","65000000","110822419"
-"265","Song One","2014","Jan","Drama","PG-13","86","English","Kate Barker-Froyland","Kate Barker-Froyland","Anne Hathaway","48","58","6,216","6000000","32251"
-"266","The Man from U.N.C.L.E.","2015","Aug","Action","PG-13","116","English","Guy Ritchie","Guy Ritchie","Henry Cavill","56","73","145,170","75000000","45372659"
-"267","Self/less","2015","Jul","Action","PG-13","117","English","Tarsem Singh","David Pastor","Ryan Reynolds","34","65","47,857","26000000","12276810"
-"268","Vacation","2015","Jul","Adventure","R","99","English","John Francis Daley, Jonathan M. Goldstein","Jonathan M. Goldstein","Ed Helms","34","62","52,476","31000000","58787835"
-"269","Unbroken","2014","Dec","Biography","PG-13","137","English","Angelina Jolie","Joel Coen","Jack O'Connell","59","72","95,444","65000000","115637895"
-"270","Spotlight","2015","Nov","Biography","R","128","English","Tom McCarthy","Josh Singer","Mark Ruffalo","93","82","72,189","20000000","39478783"
-"271","The Giver","2014","Aug","Drama","PG-13","97","English","Phillip Noyce","Michael Mitnick","Jeff Bridges","47","65","80,230","25000000","43838601"
-"272","The 33","2015","Nov","Biography","PG-13","127","English","Patricia Riggen","Mikko Alanne","Antonio Banderas","55","69","14,517","25000000","12188642"
-"273","Think Like a Man Too","2014","Jun","Comedy","PG-13","106","English","Tim Story","Keith Merryman","Adam Brody","38","57","14,468","24000000","65028687"
-"274","Gone Girl","2014","Oct","Crime","R","149","English","David Fincher","Gillian Flynn","Ben Affleck","79","81","531,783","61000000","167735396"
-"275","Joy","2015","Dec","Comedy","PG-13","124","English","David O. Russell","David O. Russell","Jennifer Lawrence","56","66","44,165","60000000","55845747"
-"276","Transcendence","2014","Apr","Drama","PG-13","119","English","Wally Pfister","Jack Paglen","Johnny Depp","42","63","165,947","100000000","23022309"
-"277","Ex Machina","2015","Apr","Drama","R","108","English","Alex Garland","Alex Garland","Domhnall Gleeson","78","77","248,213","15000000","25442958"
-"278","50 to 1","2014","Mar","Drama","PG-13","110","English","Jim Wilson","Faith Conroy","Skeet Ulrich","37","66","1,210","8500000","1056887"
-"279","Burnt","2015","Oct","Comedy","R","101","English","John Wells","Steven Knight","Bradley Cooper","42","66","41,512","20000000","13650738"
-"280","5 Flights Up","2014","May","Drama","PG-13","92","English","Richard Loncraine","Charlie Peters","Morgan Freeman","55","61","4,010","6000000","1013061"
-"281","Rio 2","2014","Apr","Animation","G","101","English","Carlos Saldanha","Don Rhymer","Jake T. Austin","49","64","54,996","103000000","131020633"
-"282","Krampus","2015","Dec","Comedy","PG-13","98","English","Michael Dougherty","Todd Casey","Emjay Anthony","49","65","16,794","15000000","42592530"
-"283","Mad Max: Fury Road","2015","May","Action","R","120","English","George Miller","George Miller","Tom Hardy","90","81","482,416","150000000","153636354"
-"284","The Judge","2014","Oct","Crime","R","141","English","David Dobkin","Nick Schenk","Robert Downey Jr.","48","74","129,853","50000000","46590889"
-"285","Dope","2015","Jun","Comedy","R","103","English","Rick Famuyiwa","Rick Famuyiwa","Rakim Mayers","72","73","42,961","700000","17474107"
-"286","Wild","2014","Dec","Adventure","R","115","English","Jean-Marc Vallée","Nick Hornby","Reese Witherspoon","76","71","79,637","15000000","37877959"
-"287","Steve Jobs","2015","Oct","Biography","R","122","English","Danny Boyle","Aaron Sorkin","Michael Fassbender","82","73","67,279","30000000","17750583"
-"288","Brick Mansions","2014","Apr","Action","PG-13","90","English","Camille Delamarre","Luc Besson","Paul Walker","40","57","30,201","28000000","20285518"
-"289","Chef","2014","May","Comedy","R","114","English","Jon Favreau","Jon Favreau","Jon Favreau","68","73","129,954","11000000","30640336"
-"290","Mortdecai","2015","Jan","Action","R","107","English","David Koepp","Eric Aronson","Johnny Depp","27","55","42,020","60000000","7605668"
-"291","Million Dollar Arm","2014","May","Biography","PG","124","English","Craig Gillespie","Tom McCarthy","Jon Hamm","56","71","33,955","25000000","36312739"
-"292","Still Alice","2014","Feb","Drama","PG-13","101","English","Richard Glatzer, Wash Westmoreland","Richard Glatzer","Julianne Moore","72","75","76,489","4100000","18656400"
-"293","The Age of Adaline","2015","Apr","Drama","PG-13","112","English","Lee Toland Krieger","J. Mills Goodloe","Blake Lively","51","72","80,047","25000000","42478175"
-"294","Tomorrowland","2015","May","Action","PG","130","English","Brad Bird","Damon Lindelof","George Clooney","60","65","110,858","190000000","93417865"
-"295","The Masked Saint","2016","Jan","Action","PG-13","111","English","Warren P. Sonoda","Scott Crowell","Brett Granstaff","22","46","111","3500000","123777"
-"296","Barefoot","2014","Sep","Comedy","PG-13","90","English","Andrew Fleming","Stephen Zotnowski","Evan Rachel Wood","22","66","15,494","6000000","11766"
-"297","Dumb and Dumber To","2014","Nov","Comedy","PG-13","109","English","Bobby Farrelly, Peter Farrelly","Sean Anders","Jim Carrey","36","57","92,292","40000000","86208010"
-"298","A Haunted House 2","2014","Apr","Comedy","R","86","English","Michael Tiddes","Marlon Wayans","Marlon Wayans","17","47","13,685","3500000","17314483"
-"299","The Purge: Anarchy","2014","Jul","Action","R","103","English","James DeMonaco","James DeMonaco","Frank Grillo","50","65","81,462","9000000","68547000"
-"300","Southpaw","2015","Jul","Action","R","124","English","Antoine Fuqua","Kurt Sutter","Jake Gyllenhaal","57","75","127,655","30000000","52316554"
-"301","About Last Night","2014","Feb","Comedy","R","100","English","Steve Pink","Leslye Headland","Kevin Hart","62","61","16,085","12500000","48637684"
-"302","The Homesman","2014","May","Drama","R","122","English","Tommy Lee Jones","Tommy Lee Jones","Tommy Lee Jones","68","66","19,841","16000000","2428883"
-"303","The Nut Job","2014","Jan","Animation","PG","85","English","Peter Lepeniotis","Lorne Cameron","Will Arnett","37","58","18,700","42000000","64238770"
-"304","Taken 3","2014","Jan","Action","PG-13","109","English","Olivier Megaton","Luc Besson","Liam Neeson","26","60","125,270","48000000","89256424"
-"305","Big Eyes","2014","Dec","Biography","PG-13","106","English","Tim Burton","Scott Alexander","Amy Adams","62","70","49,588","10000000","14479776"
-"306","Tammy","2014","Jul","Comedy","R","97","English","Ben Falcone","Melissa McCarthy","Melissa McCarthy","39","49","33,195","20000000","84416826"
-"307","Moms' Night Out","2014","May","Comedy","PG","98","English","Andrew Erwin, Jon Erwin","Jon Erwin","Sarah Drew","25","54","9,966","5000000","10429707"
-"308","We Are Your Friends","2015","Aug","Drama","R","96","English","Max Joseph","Max Joseph","Zac Efron","46","61","14,990","6000000","3590010"
-"309","The Equalizer","2014","Sep","Action","R","132","English","Antoine Fuqua","Richard Wenk","Denzel Washington","57","72","217,348","55000000","100454738"
-"310","The Walk","2015","Oct","Adventure","PG","123","English","Robert Zemeckis","Robert Zemeckis","Joseph Gordon-Levitt","70","75","57,807","35000000","10137502"
-"311","Kill the Messenger","2014","Oct","Biography","R","112","English","Michael Cuesta","Peter Landesman","Jeremy Renner","60","70","30,149","5000000","2450846"
-"312","Noah","2014","Mar","Action","PG-13","138","English","Darren Aronofsky","Darren Aronofsky","Russell Crowe","68","58","193,859","125000000","101160529"
-"313","Hot Pursuit","2015","May","Action","PG-13","87","English","Anne Fletcher","David Feeney","Reese Witherspoon","31","51","30,216","35000000","34507079"
-"314","The Perfect Guy","2015","Sep","Drama","PG-13","100","English","David M. Rosenthal","Alan B. McElroy","Sanaa Lathan","36","54","4,735","12000000","57017904"
-"315","300: Rise of an Empire","2014","Mar","Action","R","102","English","Noam Murro","Zack Snyder","Sullivan Stapleton","48","63","214,091","110000000","106580051"
-"316","Pride and Prejudice and Zombies","2016","Feb","Action","PG-13","107","English","Burr Steers","Burr Steers","Lily James","45","62","6,711","28000000","5324240"
-"317","Ride Along","2014","Jan","Action","PG-13","99","English","Tim Story","Greg Coolidge","Ice Cube","41","62","67,807","25000000","134141530"
-"318","Crimson Peak","2015","Oct","Drama","R","119","English","Guillermo del Toro","Guillermo del Toro","Mia Wasikowska","66","67","63,384","55000000","31056945"
-"319","13 Hours: The Secret Soldiers of Benghazi","2016","Jan","Action","R","144","English","Michael Bay","Chuck Hogan","John Krasinski","48","76","9,803","50000000","47742896"
-"320","Paddington","2014","Jan","Comedy","PG","95","English","Paul King","Paul King","Tim Downie","77","72","46,043","55000000","76223578"
-"321","Poltergeist","2015","Jun","Fantasy","PG","114","English","Tobe Hooper","Steven Spielberg","Craig T. Nelson","79","74","99,989","35000000","47415690"
-"322","Blended","2014","May","Comedy","PG-13","117","English","Frank Coraci","Ivan Menchell","Adam Sandler","31","65","82,134","40000000","45889191"
-"323","Lucy","2014","Jul","Action","R","89","English","Luc Besson","Luc Besson","Scarlett Johansson","61","64","308,431","40000000","125480625"
-"324","Desert Dancer","2014","Apr","Biography","PG-13","104","English","Richard Raymond","Jon Croker","Nazanin Boniadi","49","59","1,027","4000000","143653"
-"325","Serena","2014","Feb","Drama","R","109","English","Susanne Bier","Christopher Kyle","Jennifer Lawrence","36","54","15,987","30000000","176305"
-"326","Insidious: Chapter 3","2015","Jun","Fantasy","PG-13","97","English","Leigh Whannell","Leigh Whannell","Dermot Mulroney","52","61","45,417","10000000","52218558"
-"327","The Boy","2016","Jan","Horror","PG-13","97","English","William Brent Bell","Stacey Menear","Lauren Cohan","42","62","7,356","10000000","30778587"
+1,Fifty Shades of Grey,2015,Feb,Drama,R,125,English,Sam Taylor-Johnson,Kelly Marcel,Dakota Johnson,46,41,"209,678",40000000,166167230
+2,Interstellar,2014,Nov,Adventure,PG-13,169,English,Christopher Nolan,Jonathan Nolan,Ellen Burstyn,74,86,"845,024",165000000,188020017
+3,Blackhat,2015,Jan,Action,R,133,English,Michael Mann,Morgan Davis Foehl,Chris Hemsworth,51,54,"35,637",70000000,7097125
+4,Rosewater,2014,Nov,Biography,R,103,English,Jon Stewart,Jon Stewart,Gael García Bernal,67,66,"7,698",5000000,3128941
+5,God's Pocket,2014,Aug,Crime,R,88,English,John Slattery,Peter Dexter,Christina Hendricks,51,61,"6,968",1000000,23400
+6,Stonewall,2015,Sep,Drama,R,129,English,Roland Emmerich,Jon Robin Baitz,Joey King,30,41,"1,176",13500000,186354
+7,Jupiter Ascending,2015,Feb,Action,PG-13,127,English,"Andy Wachowski, Lana Wachowski",Andy Wachowski,Mila Kunis,40,54,"129,577",176000000,47387723
+8,Devil's Due,2014,Jan,Horror,R,89,English,"Matt Bettinelli-Olpin, Tyler Gillett",Lindsay Devlin,Allison Miller,34,40,"13,458",7000000,15818967
+9,How to Train Your Dragon 2,2014,Jun,Animation,PG,102,English,Dean DeBlois,Dean DeBlois,Jay Baruchel,76,79,"207,901",145000000,175859659
+10,A Million Ways to Die in the West,2014,May,Comedy,R,116,English,Seth MacFarlane,Seth MacFarlane,Seth MacFarlane,44,61,"130,286",40000000,42615685
+11,Shaun the Sheep Movie,2015,Aug,Animation,PG,85,N/A,"Mark Burton, Richard Starzak",Mark Burton,Justin Fletcher,81,74,"20,038",25000000,19321230
+12,The Gift,2015,Aug,Mystery,R,108,English,Joel Edgerton,Joel Edgerton,Jason Bateman,77,71,"64,793",5000000,43771291
+13,Inside Out,2015,Jun,Animation,PG,95,English,"Pete Docter, Ronnie Del Carmen",Pete Docter,Amy Poehler,94,83,"287,471",175000000,356454367
+14,Phantom,2015,Mar,History,R,98,English,Todd Robinson,Todd Robinson,Ed Harris,40,58,"11,286",7500000,207921
+15,Rock the Kasbah,2015,Oct,Comedy,R,106,English,Barry Levinson,Mitch Glazer,Bill Murray,29,55,"2,844",15000000,2982281
+16,San Andreas,2015,May,Action,PG-13,114,English,Brad Peyton,Carlton Cuse,Dwayne Johnson,43,61,"127,213",110000000,155181732
+17,The Hobbit: The Battle of the Five Armies,2014,Dec,Adventure,PG-13,144,English,Peter Jackson,Fran Walsh,Ian McKellen,59,75,"330,419",250000000,255119788
+18,Trainwreck,2015,Jul,Comedy,R,125,English,Judd Apatow,Amy Schumer,Colin Quinn,75,64,"76,603",35000000,110008260
+19,Left Behind,2014,Oct,Action,PG-13,110,English,Vic Armstrong,Jerry B. Jenkins,Nicolas Cage,12,31,"23,215",16000000,6300147
+20,The Revenant,2015,Jan,Adventure,R,156,English,Alejandro González Iñárritu,Mark L. Smith,Leonardo DiCaprio,76,82,"285,372",135000000,159164599
+21,The Book of Life,2014,Oct,Animation,PG,95,English,Jorge R. Gutiérrez,Jorge R. Gutiérrez,Diego Luna,67,73,"41,746",50000000,50150619
+22,The DUFF,2015,Feb,Comedy,PG-13,101,English,Ari Sandel,Josh A. Cagan,Mae Whitman,56,66,"45,821",8500000,34017854
+23,Dracula Untold,2014,Oct,Action,PG-13,92,English,Gary Shore,Matt Sazama,Luke Evans,40,63,"130,900",70000000,56280355
+24,Minions,2015,Jul,Animation,PG,91,English,"Kyle Balda, Pierre Coffin",Brian Lynch,Sandra Bullock,56,65,"124,840",74000000,336045770
+25,Night at the Museum: Secret of the Tomb,2014,Dec,Adventure,PG,98,English,Shawn Levy,David Guion,Ben Stiller,47,62,"61,363",127000000,113733726
+26,Concussion,2015,Dec,Biography,PG-13,123,English,Peter Landesman,Peter Landesman,Will Smith,55,71,"18,046",35000000,34255169
+27,Sicario,2015,N/A,Action,R,121,English,Denis Villeneuve,Taylor Sheridan,Emily Blunt,81,77,"143,942",30000000,46875468
+28,Terminator Genisys,2015,Jul,Action,PG-13,126,English,Alan Taylor,Laeta Kalogridis,Arnold Schwarzenegger,38,66,"165,960",155000000,89760956
+29,Jem and the Holograms,2015,Oct,Adventure,PG,118,English,Jon M. Chu,Ryan Landels,Aubrey Peeples,42,39,"2,516",5000000,2184640
+30,This Is Where I Leave You,2014,Sep,Comedy,R,103,English,Shawn Levy,Jonathan Tropper,Jason Bateman,44,66,"50,487",19800000,22441091
+31,The Amazing Spider-Man 2,2014,May,Action,PG-13,142,English,Marc Webb,Alex Kurtzman,Andrew Garfield,53,68,"305,887",200000000,202644001
+32,Avengers: Age of Ultron,2015,May,Action,PG-13,141,English,Joss Whedon,Joss Whedon,Robert Downey Jr.,66,75,"401,155",250000000,459005868
+33,Cantinflas,2014,Sep,Biography,PG,102,Spanish,Sebastian del Amo,Edui Tijerina,Óscar Jaenada,44,67,"2,996",3000000,6261369
+34,Cake,2014,Jan,Drama,R,102,English,Daniel Barnz,Patrick Tobin,Jennifer Aniston,49,65,"24,904",7000000,1873547
+35,Vampire Academy,2014,Feb,Action,PG-13,104,English,Mark Waters,Richelle Mead,Zoey Deutch,30,56,"39,406",30000000,7791146
+36,If I Stay,2014,Aug,Drama,PG-13,107,English,R.J. Cutler,Shauna Cross,Chloë Grace Moretz,46,68,"76,515",11000000,49128389
+37,Pixels,2015,Jul,Action,PG-13,106,English,Chris Columbus,Tim Herlihy,Adam Sandler,27,57,"74,411",88000000,78747585
+38,The 5th Wave,2016,Jan,Action,PG-13,112,English,J Blakeson,Susannah Grant,Chloë Grace Moretz,33,56,"13,202",38000000,29519370
+39,The Interview,2014,Dec,Comedy,R,112,English,"Evan Goldberg, Seth Rogen",Dan Sterling,James Franco,52,66,"236,530",44000000,6105175
+40,While We're Young,2014,Apr,Comedy,R,97,English,Noah Baumbach,Noah Baumbach,Naomi Watts,77,63,"27,325",10000000,7574066
+41,The Second Best Exotic Marigold Hotel,2015,Mar,Comedy,PG,122,English,John Madden,John Madden,Dev Patel,51,66,"19,409",10000000,33071558
+42,Paul Blart: Mall Cop 2,2015,Apr,Action,PG,94,English,Andy Fickman,Kevin James,Kevin James,13,44,"21,219",30000000,71038190
+43,A Walk Among the Tombstones,2014,Sep,Crime,R,114,English,Scott Frank,Scott Frank,Liam Neeson,57,65,"82,900",28000000,20830290
+44,Manglehorn,2014,Jun,Drama,PG-13,97,English,David Gordon Green,Paul Logan,Al Pacino,56,56,"4,181",4000000,132075
+45,Locker 13,2014,Mar,Thriller,R,90,English,"Bruce Dellis, Jason Marsden, Matthew Mebane, Adam Montierth, Donovan Montierth",Bruce Dellis,Ricky Schroder,22,47,234,300000,2468
+46,That Awkward Moment,2014,Jan,Comedy,R,94,English,Tom Gormican,Tom Gormican,Zac Efron,36,61,"72,589",8000000,26049082
+47,The Hundred-Foot Journey,2014,Aug,Comedy,PG,122,English,Lasse Hallström,Steven Knight,Helen Mirren,55,73,"48,655",22000000,52593224
+48,The Danish Girl,2015,Jan,Biography,R,119,English,Tom Hooper,David Ebershoff,Alicia Vikander,66,70,"52,609",25000000,10613785
+49,"I, Frankenstein",2014,Jan,Action,PG-13,92,English,Stuart Beattie,Stuart Beattie,Aaron Eckhart,30,52,"63,456",65000000,19059018
+50,The Night Before,2015,Nov,Comedy,R,101,English,Jonathan Levine,Jonathan Levine,Joseph Gordon-Levitt,58,68,"14,863",25000000,43035725
+51,Lucky Numbers,2015,Oct,Comedy,R,105,English,Nora Ephron,Adam Resnick,John Travolta,31,50,"8,396",2000,4000
+52,Straight Outta Compton,2015,Aug,Biography,R,147,English,F. Gary Gray,Jonathan Herman,O'Shea Jackson Jr.,72,80,"96,338",28000000,160902085
+53,War Room,2015,Aug,Drama,PG,120,English,Alex Kendrick,Alex Kendrick,Karen Abercrombie,26,63,"7,131",3000000,67790117
+54,The Boy Next Door,2015,Jan,Mystery,R,91,English,Rob Cohen,Barbara Curry,Jennifer Lopez,30,46,"24,392",4000000,35385560
+55,The Wedding Ringer,2015,Jan,Comedy,R,101,English,Jeremy Garelick,Jeremy Garelick,Kevin Hart,35,67,"49,204",23000000,64460211
+56,Draft Day,2014,Apr,Drama,R,110,English,Ivan Reitman,Scott Rothman,Chris Berman,54,68,"37,010",27000000,28831145
+57,Grandma,2015,Sep,Comedy,R,79,English,Paul Weitz,Paul Weitz,Lily Tomlin,77,68,"5,131",600000,6975272
+58,The Vatican Tapes,2015,Jul,Horror,PG-13,91,English,Mark Neveldine,Chris Morgan,Olivia Taylor Dudley,37,45,"5,770",8495000,1712111
+59,Spectre,2015,Nov,Action,PG-13,148,English,Sam Mendes,John Logan,Daniel Craig,60,69,"229,683",245000000,199591466
+60,St. Vincent,2014,Oct,Comedy,PG-13,102,English,Theodore Melfi,Theodore Melfi,Bill Murray,64,73,"68,462",13000000,44134898
+61,A Lego Brickumentary,2014,Jul,Documentary,G,93,English,"Kief Davidson, Daniel Junge",Daniel Junge,Jason Bateman,51,67,975,1000000,100240
+62,Nightcrawler,2014,Oct,Crime,R,117,English,Dan Gilroy,Dan Gilroy,Jake Gyllenhaal,76,79,"273,041",8500000,32279955
+63,Hitman: Agent 47,2015,Aug,Action,R,96,English,Aleksander Bach,Skip Woods,Angelababy,28,58,"51,744",35000000,22464430
+64,Fantastic Four,2015,Jul,Action,PG-13,106,English,Tim Story,Mark Frost,Ioan Gruffudd,40,57,"258,549",120000000,56117548
+65,It Follows,2014,Mar,Horror,R,100,English,David Robert Mitchell,David Robert Mitchell,Bailey Spry,83,69,"95,103",2000000,14673301
+66,The Woman in Black 2: Angel of Death,2014,Jan,Drama,PG-13,98,English,Tom Harper,Jon Croker,Phoebe Fox,42,49,"17,837",1000000,26496583
+67,Pan,2015,Oct,Adventure,PG,111,English,Joe Wright,Jason Fuchs,Hugh Jackman,36,59,"28,997",150000000,34964818
+68,Wish I Was Here,2014,Jul,Comedy,R,106,English,Zach Braff,Adam J. Braff,Zach Braff,43,67,"27,378",6000000,3054075
+69,A Most Wanted Man,2014,Aug,Crime,R,122,English,Anton Corbijn,Andrew Bovell,Grigoriy Dobrygin,73,68,"54,710",15000000,17053959
+70,Magic Mike XXL,2015,Jul,Comedy,R,115,English,Gregory Jacobs,Reid Carolin,Channing Tatum,60,57,"32,818",14800000,66009973
+71,Samba,2014,Oct,Comedy,R,118,French,"Olivier Nakache, Eric Toledano",Eric Toledano,Omar Sy,53,67,"9,034",20000000,149805
+72,Pitch Perfect 2,2015,May,Comedy,PG-13,115,English,Elizabeth Banks,Kay Cannon,Anna Kendrick,63,65,"84,121",29000000,183436380
+73,3 Days to Kill,2014,Feb,Action,PG-13,117,English,McG,Adi Hasak,Kevin Costner,40,62,"66,429",28000000,30697999
+74,The Longest Ride,2015,Apr,Drama,PG-13,128,English,George Tillman Jr.,Nicholas Sparks,Britt Robertson,33,71,"42,134",34000000,37432299
+75,Beyond the Lights,2014,Nov,Drama,PG-13,116,English,Gina Prince-Bythewood,Gina Prince-Bythewood,Gugu Mbatha-Raw,73,69,"10,201",7000000,14612840
+76,Maleficent,2014,May,Action,PG,97,English,Robert Stromberg,Linda Woolverton,Angelina Jolie,56,70,"240,316",180000000,241410378
+77,Earth to Echo,2014,Jul,Adventure,PG,91,English,Dave Green,Henry Gayden,Teo Halm,53,58,"14,930",13000000,38753987
+78,The Pyramid,2014,Dec,Action,R,89,English,Grégory Levasseur,Daniel Meersand,Ashley Hinshaw,24,47,"15,603",6500000,2756333
+79,The Hateful Eight,2015,Dec,Crime,R,187,English,Quentin Tarantino,Quentin Tarantino,Samuel L. Jackson,68,80,"166,614",62000000,53007830
+80,The Ghouls,2015,Mar,Horror,R,81,English,Chad Ferrin,Chad Ferrin,Timothy Muskatell,N/A,41,415,37000000,816974
+81,Woman in Gold,2015,Apr,Biography,PG-13,109,English,Simon Curtis,Alexi Kaye Campbell,Helen Mirren,51,73,"29,083",11000000,33305037
+82,The Disappearance of Eleanor Rigby: Them,2014,Sep,Drama,R,123,English,Ned Benson,Ned Benson,James McAvoy,57,64,"7,577",3000000,436251
+83,Life Is a Dream,2014,Dec,Drama,NOT RATED,100,French,Raoul Ruiz,Raoul Ruiz,Sylvain Thirolle,N/A,72,69,500000,850000
+84,Cinderella,2015,Mar,Animation,APPROVED,74,English,"Clyde Geronimi, Wilfred Jackson, Hamilton Luske",Charles Perrault,Ilene Woods,N/A,73,"99,040",95000000,201148159
+85,Demonic,2015,Feb,Horror,R,83,English,Will Canon,Max La Bella,Maria Bello,N/A,53,"6,359",3000000,3387774
+86,Strangerland,2015,Jul,Drama,R,112,English,Kim Farrant,Michael Kinirons,Nicole Kidman,42,52,"5,087",10000000,17472
+87,Mr. Peabody & Sherman,2014,Mar,Animation,PG,92,English,Rob Minkoff,Jay Ward,Ty Burrell,59,69,"45,317",145000000,111392580
+88,American Sniper,2014,Jan,Action,R,133,English,Clint Eastwood,Jason Hall,Bradley Cooper,72,73,"301,563",58800000,350126372
+89,Pompeii,2014,Feb,Action,PG-13,105,English,Paul W.S. Anderson,Janet Scott Batchler,Kit Harington,39,56,"81,197",100000000,23219748
+90,No Good Deed,2014,Sep,Crime,PG-13,84,English,Sam Miller,Aimee Lagos,Idris Elba,26,56,"11,881",13200000,46532221
+91,Aloft,2014,Jan,Drama,R,112,English,Claudia Llosa,Claudia Llosa,Jennifer Connelly,34,53,"1,810",8000000,52961
+92,Inherent Vice,2014,Jan,Comedy,R,148,English,Paul Thomas Anderson,Paul Thomas Anderson,Joanna Newsom,81,67,"56,602",20000000,8110975
+93,Ant-Man,2015,Jul,Action,PG-13,117,English,Peyton Reed,Edgar Wright,Paul Rudd,64,74,"252,344",130000000,180202163
+94,Honeymoon,2014,Sep,Horror,R,87,English,Leigh Janiak,Phil Graziadei,Rose Leslie,65,56,"15,210",1000000,7959
+95,Mission: Impossible - Rogue Nation,2015,Jul,Action,PG-13,131,English,Christopher McQuarrie,Christopher McQuarrie,Tom Cruise,75,75,"207,337",150000000,195042377
+96,Tusk,2014,Sep,Comedy,R,102,English,Kevin Smith,Kevin Smith,Michael Parks,55,54,"28,788",2800000,1427014
+97,I Smile Back,2015,Nov,Drama,R,85,English,Adam Salky,Paige Dylan,Josh Charles,59,60,"2,218",495000,57678
+98,Edge of Tomorrow,2014,Jun,Action,PG-13,113,English,Doug Liman,Christopher McQuarrie,Tom Cruise,71,79,"404,164",178000000,99992247
+99,Kung Fu Panda 3,2016,Jan,Animation,PG,95,English,"Alessandro Carloni, Jennifer Yuh",Jonathan Aibel,Jack Black,65,76,"12,433",145000000,93912387
+100,Godzilla,2014,May,Action,PG-13,123,English,Gareth Edwards,Max Borenstein,Aaron Taylor-Johnson,62,65,"292,251",160000000,200616740
+101,The Forest,2016,Jan,Horror,PG-13,93,English,Jason Zada,Nick Antosca,Natalie Dormer,34,50,"5,123",10000000,26387046
+102,Better Living Through Chemistry,2014,Mar,Comedy,NOT RATED,91,English,"Geoff Moore, David Posamentier",Geoff Moore,Sam Rockwell,40,63,"10,446",5000000,72273
+103,Everest,2015,Sep,Adventure,PG-13,121,English,Baltasar Kormákur,William Nicholson,Jason Clarke,64,71,"106,049",55000000,43482270
+104,Goosebumps,2015,Oct,Adventure,PG,103,English,Rob Letterman,Darren Lemke,Jack Black,60,64,"31,810",58000000,80021740
+105,Jane Got a Gun,2015,Jan,Action,R,98,English,Gavin O'Connor,Brian Duffield,Natalie Portman,50,60,"1,019",25000000,1397284
+106,Into the Storm,2014,Aug,Action,PG-13,89,English,Steven Quale,John Swetnam,Richard Armitage,44,58,"52,299",50000000,47602194
+107,Un gallo con muchos huevos,2015,Sep,Animation,PG-13,98,Spanish,"Gabriel Riva Palacio Alatriste, Rodolfo Riva-Palacio Alatriste",Marqus Bobesich,Bruno Bichir,N/A,60,505,5300000,9019864
+108,Warrior Princess,2014,Sep,Action,R,95,English,Shuudertsetseg Baatarsuren,Shuudertsetseg Baatarsuren,Batmend Baast,N/A,45,105,800000,3000000
+109,Hot Tub Time Machine 2,2015,Feb,Comedy,R,93,English,Steve Pink,Josh Heald,Rob Corddry,29,51,"25,476",14000000,12282677
+110,Happy Christmas,2014,Jun,Comedy,R,82,English,Joe Swanberg,Joe Swanberg,Anna Kendrick,70,56,"5,242",70000,30312
+111,The Babadook,2014,Nov,Drama,NOT RATED,93,English,Jennifer Kent,Jennifer Kent,Essie Davis,86,69,"99,702",2000000,924279
+112,Sinister 2,2015,Aug,Horror,R,97,English,Ciarán Foy,Scott Derrickson,James Ransone,32,53,"20,003",10000000,27642169
+113,Love the Coopers,2015,Nov,Comedy,PG-13,107,English,Jessie Nelson,Steven Rogers,Steve Martin,31,57,"6,897",17000000,26284475
+114,Focus,2015,Feb,Comedy,R,105,English,"Glenn Ficarra, John Requa",Glenn Ficarra,Will Smith,56,66,"133,448",50100000,53846915
+115,Hotel Transylvania 2,2015,Sep,Animation,PG,89,English,Genndy Tartakovsky,Robert Smigel,Adam Sandler,44,68,"41,918",80000000,169611752
+116,Paranormal Activity: The Marked Ones,2014,Jan,Fantasy,R,84,English,Christopher Landon,Christopher Landon,Andrew Jacobs,42,50,"30,534",5000000,32453345
+117,Lazer Team,2015,Jan,Action,PG-13,102,English,Matt Hullum,Burnie Burns,Burnie Burns,42,59,"4,618",2480421,1149878
+118,The Gunman,2015,Mar,Action,R,115,English,Pierre Morel,Jean-Patrick Manchette,Sean Penn,39,58,"25,196",40000000,10640645
+119,Step Up All In,2014,Aug,Drama,PG-13,112,English,Trish Sie,Duane Adler,Ryan Guzman,45,60,"23,820",45000000,14897580
+120,10 Days in a Madhouse,2015,Nov,Drama,R,111,English,Timothy Hines,Timothy Hines,Caroline Barry,N/A,85,232,12000000,14616
+121,Aloha,2015,May,Comedy,PG-13,105,English,Cameron Crowe,Cameron Crowe,Bradley Cooper,40,55,"34,947",37000000,20991497
+122,The Intern,2015,Sep,Comedy,PG-13,121,English,Nancy Meyers,Nancy Meyers,Robert De Niro,51,72,"98,627",35000000,75274748
+123,A Most Violent Year,2014,Jan,Action,R,125,English,J.C. Chandor,J.C. Chandor,Oscar Isaac,79,70,"41,834",20000000,5749134
+124,Savage High,2016,Oct,Drama,NOT RATED,92,English,Manny Velazquez,Manny Velazquez,Alen Rios,N/A,N/A,N/A,10000,350
+125,The Legend of Hercules,2014,Jan,Action,PG-13,99,English,Renny Harlin,Sean Hood,Kellan Lutz,22,42,"43,476",70000000,18821279
+126,The Monuments Men,2014,Feb,Drama,PG-13,118,English,George Clooney,George Clooney,George Clooney,52,61,"97,964",70000000,77951843
+127,Above and Beyond,2014,Jan,Action,APPROVED,122,English,"Melvin Frank, Norman Panama",Beirne Lay Jr.,Robert Taylor,N/A,70,785,1300000,287697
+128,The Expendables 3,2014,Aug,Action,PG-13,126,English,Patrick Hughes,Sylvester Stallone,Sylvester Stallone,35,61,"120,130",90000000,38988855
+129,Winter's Tale,2014,Feb,Drama,PG-13,118,English,Akiva Goldsman,Akiva Goldsman,Colin Farrell,31,62,"39,546",60000000,22451
+130,Point Break,2015,Jul,Action,R,122,English,Kathryn Bigelow,Rick King,Patrick Swayze,58,72,"106,126",105000000,28617282
+131,The Boxtrolls,2014,Sep,Animation,PG,96,English,"Graham Annable, Anthony Stacchi",Irena Brignull,Ben Kingsley,61,68,"38,141",60000000,50807639
+132,Hercules,2014,Jun,Animation,G,93,English,"Ron Clements, John Musker",Ron Clements,Tate Donovan,N/A,72,"133,564",100000000,72385417
+133,Kingsman: The Secret Service,2014,Feb,Action,R,129,English,Matthew Vaughn,Jane Goldman,Adrian Quinton,58,78,"361,155",81000000,128248205
+134,The Visit,2015,Sep,Horror,PG-13,94,English,M. Night Shyamalan,M. Night Shyamalan,Olivia DeJonge,55,62,"51,526",5000000,65069140
+135,Star Wars: Episode VII - The Force Awakens,2015,Dec,Action,PG-13,135,English,J.J. Abrams,Lawrence Kasdan,Harrison Ford,81,84,"435,197",200000000,914838964
+136,Seventh Son,2014,Feb,Action,PG-13,102,English,Sergey Bodrov,Charles Leavitt,Jeff Bridges,30,55,"50,373",95000000,17223265
+137,The Drop,2014,Sep,Crime,R,106,English,Michaël R. Roskam,Dennis Lehane,Tom Hardy,69,71,"99,585",12600000,10724389
+138,Guardians of the Galaxy,2014,Aug,Action,PG-13,121,English,James Gunn,James Gunn,Chris Pratt,76,81,"621,608",170000000,333176600
+139,Jurassic World,2015,Jun,Action,PG-13,124,English,Colin Trevorrow,Rick Jaffa,Chris Pratt,59,71,"380,404",150000000,652270625
+140,Chappie,2015,Mar,Action,R,120,English,Neill Blomkamp,Neill Blomkamp,Sharlto Copley,41,69,"158,751",49000000,31569268
+141,Home,2015,Mar,Animation,PG,94,English,Tim Johnson,Tom J. Astle,Jim Parsons,55,67,"62,163",135000000,177397510
+142,Room,2015,Jan,Drama,R,118,English,Lenny Abrahamson,Emma Donoghue,Brie Larson,86,83,"98,027",6000000,13538053
+143,Maps to the Stars,2014,Feb,Comedy,R,111,English,David Cronenberg,Bruce Wagner,Julianne Moore,67,63,"26,326",15000000,347648
+144,Child 44,2015,Apr,Crime,R,137,English,Daniel Espinosa,Richard Price,Xavier Atkins,41,64,"34,796",50000000,1206135
+145,Exodus: Gods and Kings,2014,Dec,Action,PG-13,150,English,Ridley Scott,Adam Cooper,Christian Bale,52,61,"120,720",140000000,65014513
+146,Suffragette,2015,Oct,Biography,PG-13,106,English,Sarah Gavron,Abi Morgan,Anne-Marie Duff,67,69,"13,771",14000000,4693356
+147,Infinitely Polar Bear,2014,Jun,Comedy,R,90,English,Maya Forbes,Maya Forbes,Mark Ruffalo,64,70,"6,545",6700000,1428647
+148,Dolphin Tale 2,2014,Sep,Drama,PG,107,English,Charles Martin Smith,Charles Martin Smith,Morgan Freeman,58,64,"5,696",36000000,33618190
+149,Big Hero 6,2014,Nov,Animation,PG,102,English,"Don Hall, Chris Williams",Jordan Roberts,Scott Adsit,74,79,"247,463",165000000,222487711
+150,Not Cool,2014,Sep,Comedy,NOT RATED,93,English,Shane Dawson,Dan Schoffer,Shane Dawson,1,52,"3,978",600000,35688
+151,Sisters,2015,Dec,Comedy,R,118,English,Jason Moore,Paula Pell,Amy Poehler,58,62,"20,899",30000000,86535790
+152,X-Men: Days of Future Past,2014,May,Action,PG-13,132,English,Bryan Singer,Simon Kinberg,Hugh Jackman,74,80,"475,053",200000000,233921534
+153,American Ultra,2015,Aug,Action,R,96,English,Nima Nourizadeh,Max Landis,Jesse Eisenberg,50,61,"44,683",28000000,14434604
+154,Muppets Most Wanted,2014,Mar,Adventure,PG,107,English,James Bobin,James Bobin,Ricky Gervais,61,65,"23,290",50000000,51178893
+155,"Alexander and the Terrible, Horrible, No Good, Very Bad Day",2014,Oct,Comedy,PG,81,English,Miguel Arteta,Rob Lieber,Steve Carell,54,62,"27,800",28000000,66950483
+156,Horrible Bosses 2,2014,Nov,Comedy,R,108,English,Sean Anders,Sean Anders,Jason Bateman,40,63,"105,376",42000000,54414716
+157,90 Minutes in Heaven,2015,Sep,Drama,PG-13,121,English,Michael Polish,Don Piper,Hayden Christensen,28,46,"1,680",5000000,4700361
+158,Whiplash,2014,Oct,Drama,R,107,English,Damien Chazelle,Damien Chazelle,Miles Teller,88,85,"358,966",3300000,13092000
+159,13 Sins,2014,Apr,Horror,R,93,English,Daniel Stamm,David Birke,Mark Webber,44,63,"22,250",4000000,9134
+160,When the Game Stands Tall,2014,Aug,Drama,PG,115,English,Thomas Carter,Scott Marshall Smith,Jim Caviezel,41,67,"11,817",15000000,29224234
+161,Danny Collins,2015,Apr,Comedy,R,106,English,Dan Fogelman,Dan Fogelman,Al Pacino,58,71,"18,347",10000000,5348317
+162,Project Almanac,2015,Jan,Sci-Fi,PG-13,106,English,Dean Israelite,Jason Pagan,Jonny Weston,47,64,"52,591",12000000,22331028
+163,My Old Lady,2014,Nov,Comedy,PG-13,107,English,Israel Horovitz,Israel Horovitz,Kevin Kline,52,63,"5,125",5000000,1474563
+164,Penguins of Madagascar,2014,Nov,Animation,PG,92,English,"Eric Darnell, Simon J. Smith",Michael Colton,Tom McGrath,53,67,"56,726",132000000,83348920
+165,How to Be Single,2016,Feb,Comedy,R,110,English,Christian Ditter,Abby Kohn,Dakota Johnson,51,63,"5,292",38000000,18750000
+166,The Gallows,2015,Jul,Horror,R,81,English,"Travis Cluff, Chris Lofing",Travis Cluff,Reese Mishler,30,43,"11,177",100000,22757819
+167,Ouija,2014,Oct,Horror,PG-13,89,English,Stiles White,Juliet Snowden,Olivia Cooke,38,44,"29,590",5000000,50856010
+168,Jack Ryan: Shadow Recruit,2014,Jan,Action,PG-13,105,English,Kenneth Branagh,Adam Cozad,Chris Pine,57,62,"95,838",60000000,50549107
+169,The Maze Runner,2014,Sep,Action,PG-13,113,English,Wes Ball,Noah Oppenheim,Dylan O'Brien,56,68,"293,462",34000000,102413606
+170,Escobar: Paradise Lost,2014,Jun,Crime,R,120,English,Andrea Di Stefano,Andrea Di Stefano,Benicio Del Toro,56,66,"12,318",17000000,106869
+171,Sabotage,2014,Mar,Action,R,109,English,David Ayer,Skip Woods,Arnold Schwarzenegger,41,57,"45,389",35000000,10508518
+172,Final Girl,2015,Aug,Action,R,90,English,Tyler Shields,Adam Prince,Abigail Breslin,N/A,46,"5,533",8000000,5500000
+173,"Hail, Caesar!",2016,Feb,Comedy,PG-13,106,English,"Ethan Coen, Joel Coen",Joel Coen,Josh Brolin,72,68,"22,306",22000000,21354970
+174,Black Mass,2015,Sep,Biography,R,123,English,Scott Cooper,Mark Mallouk,Johnny Depp,68,70,"86,586",65000000,62563543
+175,Maze Runner: The Scorch Trials,2015,Sep,Action,PG-13,132,English,Wes Ball,T.S. Nowlin,Dylan O'Brien,43,64,"111,679",61000000,81687587
+176,Run All Night,2015,Mar,Action,R,114,English,Jaume Collet-Serra,Brad Ingelsby,Liam Neeson,59,66,"68,905",50000000,26442251
+177,Paranormal Activity: The Ghost Dimension,2015,Oct,Horror,R,88,English,Gregory Plotkin,Jason Pagan,Chris J. Murray,30,45,"11,713",10000000,18247445
+178,Son of God,2014,Feb,Biography,PG-13,138,English,Christopher Spencer,Richard Bedser,Sebastian Knapp,37,55,"14,827",22000000,59666589
+179,The Peanuts Movie,2015,Nov,Animation,G,88,English,Steve Martino,Bryan Schulz,Trombone Shorty,67,73,"18,928",99000000,129984193
+180,Anomalisa,2015,Jan,Animation,R,90,English,"Duke Johnson, Charlie Kaufman",Charlie Kaufman,David Thewlis,88,75,"15,639",8000000,2233178
+181,Skin Trade,2014,Apr,Action,R,96,English,Ekachai Uekrongtham,Steven Elder,Dolph Lundgren,39,57,"4,677",9000000,1242
+182,22 Jump Street,2014,Jun,Action,R,112,English,"Phil Lord, Christopher Miller",Michael Bacall,Jonah Hill,71,71,"243,361",50000000,188441614
+183,A Long Way Off,2014,Jun,Drama,PG,105,English,"Michael Davis, John Errington",Jon Macy,Robert Davi,N/A,46,107,500000,27013
+184,Fifty Shades of Black,2016,Jan,Comedy,R,92,English,Michael Tiddes,Marlon Wayans,Marlon Wayans,28,34,"3,035",5500000,9371544
+185,Annabelle,2014,Oct,Horror,R,99,English,John R. Leonetti,Gary Dauberman,Annabelle Wallis,37,54,"73,657",6500000,84027366
+186,Tomorrow,2016,Sep,Drama,PG,103,English,Joseph Anthony,William Faulkner,Robert Duvall,N/A,78,753,2000,1447
+187,Creed,2015,Nov,Drama,PG-13,133,English,Ryan Coogler,Ryan Coogler,Michael B. Jordan,82,78,"97,797",35000000,108988796
+188,The SpongeBob Movie: Sponge Out of Water,2015,Feb,Animation,PG,92,English,"Paul Tibbitt, Mike Mitchell",Glenn Berger,Antonio Banderas,62,60,"31,734",74000000,162495848
+189,The Theory of Everything,2014,Nov,Biography,PG-13,123,English,James Marsh,Anthony McCarten,Eddie Redmayne,72,77,"244,595",15000000,35887263
+190,God's Not Dead,2014,Mar,Drama,PG,113,English,Harold Cronk,Hunter Dennis,Kevin Sorbo,16,50,"28,133",2000000,60753735
+191,Unfinished Business,2015,Mar,Comedy,R,91,English,Ken Scott,Steve Conrad,Vince Vaughn,32,54,"20,531",35000000,10214013
+192,Planes: Fire & Rescue,2014,Jul,Animation,PG,83,English,Roberts Gannaway,Roberts Gannaway,Dane Cook,48,60,"11,710",50000000,58646919
+193,Sin City: A Dame to Kill For,2014,Aug,Crime,R,102,English,"Frank Miller, Robert Rodriguez",Frank Miller,Mickey Rourke,46,65,"103,177",65000000,13757804
+194,Teenage Mutant Ninja Turtles,2014,Aug,Action,PG-13,101,English,Jonathan Liebesman,Josh Appelbaum,Megan Fox,31,59,"157,045",125000000,191204754
+195,Let's Be Cops,2014,Aug,Comedy,R,104,English,Luke Greenfield,Luke Greenfield,Jake Johnson,30,65,"101,760",17000000,79628884
+196,Scouts Guide to the Zombie Apocalypse,2015,Oct,Action,R,93,English,Christopher Landon,Carrie Lee Wilson,Tye Sheridan,32,63,"17,684",15000000,3635292
+197,John Wick,2014,Oct,Action,R,101,English,"Chad Stahelski, David Leitch",Derek Kolstad,Keanu Reeves,68,72,"230,206",20000000,43037835
+198,Our Brand Is Crisis,2015,Oct,Comedy,R,107,English,David Gordon Green,Peter Straughan,Sandra Bullock,53,60,"5,244",28000000,6998324
+199,Jersey Boys,2014,Jun,Biography,R,134,English,Clint Eastwood,Marshall Brickman,Vincent Piazza,54,69,"24,112",40000000,46222854
+200,Insurgent,2015,Mar,Adventure,PG-13,119,English,Robert Schwentke,Brian Duffield,Kate Winslet,42,63,"135,211",110000000,129995817
+201,Deadpool,2016,Feb,Action,R,108,English,Tim Miller,Rhett Reese,Ryan Reynolds,65,86,"145,561",58000000,135050000
+202,Captain America: The Winter Soldier,2014,Apr,Action,PG-13,136,English,"Anthony Russo, Joe Russo",Christopher Markus,Chris Evans,70,78,"444,741",170000000,259766572
+203,Legend,2015,Nov,Biography,R,132,English,Brian Helgeland,Brian Helgeland,Paul Anderson,55,70,"65,759",30000000,1872994
+204,Brothers,2015,Dec,Drama,R,105,English,Jim Sheridan,David Benioff,Tobey Maguire,58,71,"85,404",10205000,266175
+205,Dawn of the Planet of the Apes,2014,Jul,Action,PG-13,130,English,Matt Reeves,Mark Bomback,Andy Serkis,79,76,"303,214",170000000,208545589
+206,Endless Love,2014,Feb,Drama,PG-13,104,English,Shana Feste,Shana Feste,Alex Pettyfer,30,63,"29,176",20000000,23393765
+207,Ricki and the Flash,2015,Aug,Comedy,PG-13,101,English,Jonathan Demme,Diablo Cody,Meryl Streep,54,60,"11,217",18000000,26822144
+208,The Imitation Game,2014,Dec,Biography,PG-13,114,English,Morten Tyldum,Graham Moore,Benedict Cumberbatch,73,81,"423,456",14000000,91121452
+209,Deliver Us from Evil,2014,Jul,Horror,R,118,English,Scott Derrickson,Scott Derrickson,Eric Bana,40,62,"51,729",30000000,30523568
+210,Max,2015,Jun,Adventure,PG,111,English,Boaz Yakin,Boaz Yakin,Thomas Haden Church,47,68,"15,712",20000000,42652003
+211,Paper Towns,2015,Jul,Drama,PG-13,109,English,Jake Schreier,John Green,Nat Wolff,56,64,"52,522",12000000,31990064
+212,The Gambler,2014,Dec,Crime,R,111,English,Rupert Wyatt,William Monahan,Mark Wahlberg,55,60,"45,381",25000000,33631221
+213,Heaven Is for Real,2014,Apr,Drama,PG,99,English,Randall Wallace,Randall Wallace,Greg Kinnear,47,58,"20,049",12000000,91386097
+214,The Lego Movie,2014,Feb,Animation,PG,100,English,"Phil Lord, Christopher Miller",Phil Lord,Will Arnett,83,78,"236,500",60000000,257716507
+215,Americons,2015,Jan,Action,R,88,English,Theo Avgerinos,Beau Martin Williams (writer,Beau Martin Williams,25,69,59,400000,122410
+216,Boyhood,2014,Aug,Drama,R,165,English,Richard Linklater,Richard Linklater,Ellar Coltrane,100,80,"253,937",4000000,25359200
+217,Fury,2014,Oct,Action,R,134,English,David Ayer,David Ayer,Brad Pitt,64,76,"281,882",68000000,85817906
+218,The Fault in Our Stars,2014,Jun,Drama,PG-13,126,English,Josh Boone,Scott Neustadter,Shailene Woodley,69,79,"232,083",12000000,124853062
+219,Annie,2014,Jun,Comedy,PG,127,English,John Huston,Carol Sobieski,Albert Finney,39,65,"29,539",65000000,85911262
+220,Sex Tape,2014,Jul,Comedy,R,94,English,Jake Kasdan,Kate Angelo,Cameron Diaz,36,51,"80,669",40000000,33880665
+221,Alive Inside,2014,Oct,Documentary,NOT RATED,78,English,Michael Rossato-Bennett,Michael Rossato-Bennett,Dan Cohen,67,82,"1,828",600000,7200
+222,Maggie,2015,May,Drama,PG-13,95,English,Henry Hobson,John Scott 3,Arnold Schwarzenegger,52,56,"26,541",8500000,187112
+223,The Last Witch Hunter,2015,Oct,Action,PG-13,106,English,Breck Eisner,Cory Goodman,Vin Diesel,34,60,"40,628",75000000,27356090
+224,And So It Goes,2014,Jul,Comedy,PG-13,94,English,Rob Reiner,Mark Andrus,Michael Douglas,38,57,"8,295",30000000,15155772
+225,Neighbors,2014,May,Comedy,R,97,English,Nicholas Stoller,Andrew Jay Cohen,Seth Rogen,68,64,"201,004",18000000,149771255
+226,The Good Lie,2014,Nov,Drama,PG-13,110,English,Philippe Falardeau,Margaret Nagle,Reese Witherspoon,65,74,"18,158",20000000,841422
+227,The Signal,2014,Jul,Sci-Fi,PG-13,97,English,William Eubank,Carlyle Eubank,Patrick Davidson,54,61,"45,175",4000000,600896
+228,WARx2,2014,Apr,Documentary,PG-13,117,English,Bernie Olaf,Bernie Olaf,Betty Adams,N/A,93,"2,024",3000000,39705
+229,The Hunger Games: Mockingjay - Part 1,2014,Nov,Adventure,PG-13,123,English,Francis Lawrence,Peter Craig,Jennifer Lawrence,64,67,"280,510",125000000,337135885
+230,The November Man,2014,Aug,Action,R,108,English,Roger Donaldson,Michael Finch,Pierce Brosnan,38,63,"47,052",15000000,24823474
+231,The Hunger Games: Mockingjay - Part 2,2015,Nov,Adventure,PG-13,137,English,Francis Lawrence,Peter Craig,Jennifer Lawrence,65,69,"97,247",160000000,280976000
+232,In the Heart of the Sea,2015,Dec,Action,PG-13,122,English,Ron Howard,Charles Leavitt,Chris Hemsworth,47,70,"33,186",100000000,24985612
+233,The Lazarus Effect,2015,Feb,Horror,PG-13,83,English,David Gelb,Luke Dawson,Mark Duplass,31,52,"25,797",3300000,25799043
+234,Me and Earl and the Dying Girl,2015,Jul,Comedy,PG-13,105,English,Alfonso Gomez-Rejon,Jesse Andrews,Thomas Mann,74,78,"63,167",8000000,6743776
+235,Foxcatcher,2014,Jan,Biography,R,134,English,Bennett Miller,E. Max Frye,Steve Carell,81,70,"100,844",24000000,12096300
+236,Divergent,2014,Mar,Adventure,PG-13,139,English,Neil Burger,Evan Daugherty,Shailene Woodley,48,68,"321,438",85000000,150947895
+237,RoboCop,2014,Feb,Action,PG-13,117,English,José Padilha,Joshua Zetumer,Joel Kinnaman,52,62,"177,042",100000000,58607007
+238,Into the Woods,2014,Dec,Adventure,PG,125,English,Rob Marshall,James Lapine,Anna Kendrick,69,60,"95,095",50000000,128002372
+239,Transformers: Age of Extinction,2014,Jun,Action,PG-13,165,English,Michael Bay,Ehren Kruger,Mark Wahlberg,32,57,"231,442",210000000,245439076
+240,The Duke of Burgundy,2014,Jan,Drama,UNRATED,104,English,Peter Strickland,Peter Strickland,Chiara D'Anna,87,67,"6,107",1000000,32630
+241,The Other Woman,2014,Apr,Comedy,PG-13,109,English,Nick Cassavetes,Melissa Stack,Cameron Diaz,39,60,"99,889",40000000,83892218
+242,99 Homes,2014,Oct,Drama,R,112,English,Ramin Bahrani,Ramin Bahrani,Michael Shannon,76,72,"9,370",5000000,1410915
+243,By the Sea,2015,Dec,Drama,R,122,English,Angelina Jolie,Angelina Jolie,Brad Pitt,44,52,"4,534",10000000,531009
+244,The Rover,2014,Jun,Crime,R,103,English,David Michôd,Joel Edgerton,Guy Pearce,64,64,"32,458",12250000,1089150
+245,Non-Stop,2014,Feb,Action,PG-13,106,English,Jaume Collet-Serra,John W. Richardson,Liam Neeson,56,70,"191,961",50000000,92168600
+246,The One I Love,2014,Aug,Comedy,R,91,English,Charlie McDowell,Justin Lader,Mark Duplass,66,71,"21,159",100000,500689
+247,Little Boy,2015,Apr,Drama,PG-13,106,English,Alejandro Monteverde,Alejandro Monteverde,Ted Levine,30,74,"13,768",30000000,6420319
+248,Plan B,2014,May,Comedy,NOT RATED,103,Spanish,Marco Berger,Marco Berger,Manuel Vignau,N/A,72,"2,754",50000,5000
+249,Ted 2,2015,Jun,Comedy,R,115,English,Seth MacFarlane,Seth MacFarlane,Mark Wahlberg,48,64,"98,958",68000000,81257500
+250,Bridge of Spies,2015,Oct,Biography,PG-13,142,English,Steven Spielberg,Matt Charman,Mark Rylance,81,77,"112,329",40000000,72051548
+251,The Loft,2014,Jan,Mystery,R,108,English,Erik Van Looy,Bart De Pauw,Karl Urban,24,63,"30,112",14000000,5981749
+252,Need for Speed,2014,Mar,Action,PG-13,132,English,Scott Waugh,George Gatins,Aaron Paul,39,65,"131,930",66000000,43577636
+253,My All American,2015,Nov,Biography,PG,118,English,Angelo Pizzo,Angelo Pizzo,Aaron Eckhart,34,69,"1,222",20000000,2246000
+254,Selma,2014,Jan,Biography,PG-13,128,English,Ava DuVernay,Paul Webb,David Oyelowo,89,75,"56,835",20000000,52066000
+255,God Help the Girl,2014,Sep,Drama,UNRATED,112,English,Stuart Murdoch,Stuart Murdoch,Emily Browning,58,64,"6,024",1850000,97919
+256,Best of Enemies,2015,Jul,Documentary,R,87,English,"Robert Gordon, Morgan Neville",Robert Gordon,Paul Newman,77,76,"2,659",1000000,891997
+257,Get Hard,2015,Mar,Comedy,R,100,English,Etan Cohen,Jay Martel,Will Ferrell,34,61,"74,947",40000000,90353764
+258,The Water Diviner,2014,Dec,Drama,R,111,English,Russell Crowe,Andrew Knight,Russell Crowe,50,71,"49,376",22500000,4190530
+259,Black or White,2014,Jan,Drama,PG-13,121,English,Mike Binder,Mike Binder,Kevin Costner,45,66,"7,216",9000000,21569041
+260,Hollidaysburg,2014,Sep,Comedy,NOT RATED,88,English,Anna Martemucci,Dan Schoffer,Rachel Keller,N/A,57,753,600000,3709
+261,The Martian,2015,Oct,Adventure,PG-13,144,English,Ridley Scott,Drew Goddard,Matt Damon,80,81,"383,169",108000000,228120056
+262,The Big Short,2015,Dec,Biography,R,130,English,Adam McKay,Charles Randolph,Ryan Gosling,81,79,"106,723",28000000,63660681
+263,Ride Along 2,2016,Jan,Action,PG-13,102,English,Tim Story,Phil Hay,Ice Cube,32,59,"10,186",40000000,82661235
+264,Spy,2015,Jun,Action,R,119,English,Paul Feig,Paul Feig,Jude Law,75,71,"141,626",65000000,110822419
+265,Song One,2014,Jan,Drama,PG-13,86,English,Kate Barker-Froyland,Kate Barker-Froyland,Anne Hathaway,48,58,"6,216",6000000,32251
+266,The Man from U.N.C.L.E.,2015,Aug,Action,PG-13,116,English,Guy Ritchie,Guy Ritchie,Henry Cavill,56,73,"145,170",75000000,45372659
+267,Self/less,2015,Jul,Action,PG-13,117,English,Tarsem Singh,David Pastor,Ryan Reynolds,34,65,"47,857",26000000,12276810
+268,Vacation,2015,Jul,Adventure,R,99,English,"John Francis Daley, Jonathan M. Goldstein",Jonathan M. Goldstein,Ed Helms,34,62,"52,476",31000000,58787835
+269,Unbroken,2014,Dec,Biography,PG-13,137,English,Angelina Jolie,Joel Coen,Jack O'Connell,59,72,"95,444",65000000,115637895
+270,Spotlight,2015,Nov,Biography,R,128,English,Tom McCarthy,Josh Singer,Mark Ruffalo,93,82,"72,189",20000000,39478783
+271,The Giver,2014,Aug,Drama,PG-13,97,English,Phillip Noyce,Michael Mitnick,Jeff Bridges,47,65,"80,230",25000000,43838601
+272,The 33,2015,Nov,Biography,PG-13,127,English,Patricia Riggen,Mikko Alanne,Antonio Banderas,55,69,"14,517",25000000,12188642
+273,Think Like a Man Too,2014,Jun,Comedy,PG-13,106,English,Tim Story,Keith Merryman,Adam Brody,38,57,"14,468",24000000,65028687
+274,Gone Girl,2014,Oct,Crime,R,149,English,David Fincher,Gillian Flynn,Ben Affleck,79,81,"531,783",61000000,167735396
+275,Joy,2015,Dec,Comedy,PG-13,124,English,David O. Russell,David O. Russell,Jennifer Lawrence,56,66,"44,165",60000000,55845747
+276,Transcendence,2014,Apr,Drama,PG-13,119,English,Wally Pfister,Jack Paglen,Johnny Depp,42,63,"165,947",100000000,23022309
+277,Ex Machina,2015,Apr,Drama,R,108,English,Alex Garland,Alex Garland,Domhnall Gleeson,78,77,"248,213",15000000,25442958
+278,50 to 1,2014,Mar,Drama,PG-13,110,English,Jim Wilson,Faith Conroy,Skeet Ulrich,37,66,"1,210",8500000,1056887
+279,Burnt,2015,Oct,Comedy,R,101,English,John Wells,Steven Knight,Bradley Cooper,42,66,"41,512",20000000,13650738
+280,5 Flights Up,2014,May,Drama,PG-13,92,English,Richard Loncraine,Charlie Peters,Morgan Freeman,55,61,"4,010",6000000,1013061
+281,Rio 2,2014,Apr,Animation,G,101,English,Carlos Saldanha,Don Rhymer,Jake T. Austin,49,64,"54,996",103000000,131020633
+282,Krampus,2015,Dec,Comedy,PG-13,98,English,Michael Dougherty,Todd Casey,Emjay Anthony,49,65,"16,794",15000000,42592530
+283,Mad Max: Fury Road,2015,May,Action,R,120,English,George Miller,George Miller,Tom Hardy,90,81,"482,416",150000000,153636354
+284,The Judge,2014,Oct,Crime,R,141,English,David Dobkin,Nick Schenk,Robert Downey Jr.,48,74,"129,853",50000000,46590889
+285,Dope,2015,Jun,Comedy,R,103,English,Rick Famuyiwa,Rick Famuyiwa,Rakim Mayers,72,73,"42,961",700000,17474107
+286,Wild,2014,Dec,Adventure,R,115,English,Jean-Marc Vallée,Nick Hornby,Reese Witherspoon,76,71,"79,637",15000000,37877959
+287,Steve Jobs,2015,Oct,Biography,R,122,English,Danny Boyle,Aaron Sorkin,Michael Fassbender,82,73,"67,279",30000000,17750583
+288,Brick Mansions,2014,Apr,Action,PG-13,90,English,Camille Delamarre,Luc Besson,Paul Walker,40,57,"30,201",28000000,20285518
+289,Chef,2014,May,Comedy,R,114,English,Jon Favreau,Jon Favreau,Jon Favreau,68,73,"129,954",11000000,30640336
+290,Mortdecai,2015,Jan,Action,R,107,English,David Koepp,Eric Aronson,Johnny Depp,27,55,"42,020",60000000,7605668
+291,Million Dollar Arm,2014,May,Biography,PG,124,English,Craig Gillespie,Tom McCarthy,Jon Hamm,56,71,"33,955",25000000,36312739
+292,Still Alice,2014,Feb,Drama,PG-13,101,English,"Richard Glatzer, Wash Westmoreland",Richard Glatzer,Julianne Moore,72,75,"76,489",4100000,18656400
+293,The Age of Adaline,2015,Apr,Drama,PG-13,112,English,Lee Toland Krieger,J. Mills Goodloe,Blake Lively,51,72,"80,047",25000000,42478175
+294,Tomorrowland,2015,May,Action,PG,130,English,Brad Bird,Damon Lindelof,George Clooney,60,65,"110,858",190000000,93417865
+295,The Masked Saint,2016,Jan,Action,PG-13,111,English,Warren P. Sonoda,Scott Crowell,Brett Granstaff,22,46,111,3500000,123777
+296,Barefoot,2014,Sep,Comedy,PG-13,90,English,Andrew Fleming,Stephen Zotnowski,Evan Rachel Wood,22,66,"15,494",6000000,11766
+297,Dumb and Dumber To,2014,Nov,Comedy,PG-13,109,English,"Bobby Farrelly, Peter Farrelly",Sean Anders,Jim Carrey,36,57,"92,292",40000000,86208010
+298,A Haunted House 2,2014,Apr,Comedy,R,86,English,Michael Tiddes,Marlon Wayans,Marlon Wayans,17,47,"13,685",3500000,17314483
+299,The Purge: Anarchy,2014,Jul,Action,R,103,English,James DeMonaco,James DeMonaco,Frank Grillo,50,65,"81,462",9000000,68547000
+300,Southpaw,2015,Jul,Action,R,124,English,Antoine Fuqua,Kurt Sutter,Jake Gyllenhaal,57,75,"127,655",30000000,52316554
+301,About Last Night,2014,Feb,Comedy,R,100,English,Steve Pink,Leslye Headland,Kevin Hart,62,61,"16,085",12500000,48637684
+302,The Homesman,2014,May,Drama,R,122,English,Tommy Lee Jones,Tommy Lee Jones,Tommy Lee Jones,68,66,"19,841",16000000,2428883
+303,The Nut Job,2014,Jan,Animation,PG,85,English,Peter Lepeniotis,Lorne Cameron,Will Arnett,37,58,"18,700",42000000,64238770
+304,Taken 3,2014,Jan,Action,PG-13,109,English,Olivier Megaton,Luc Besson,Liam Neeson,26,60,"125,270",48000000,89256424
+305,Big Eyes,2014,Dec,Biography,PG-13,106,English,Tim Burton,Scott Alexander,Amy Adams,62,70,"49,588",10000000,14479776
+306,Tammy,2014,Jul,Comedy,R,97,English,Ben Falcone,Melissa McCarthy,Melissa McCarthy,39,49,"33,195",20000000,84416826
+307,Moms' Night Out,2014,May,Comedy,PG,98,English,"Andrew Erwin, Jon Erwin",Jon Erwin,Sarah Drew,25,54,"9,966",5000000,10429707
+308,We Are Your Friends,2015,Aug,Drama,R,96,English,Max Joseph,Max Joseph,Zac Efron,46,61,"14,990",6000000,3590010
+309,The Equalizer,2014,Sep,Action,R,132,English,Antoine Fuqua,Richard Wenk,Denzel Washington,57,72,"217,348",55000000,100454738
+310,The Walk,2015,Oct,Adventure,PG,123,English,Robert Zemeckis,Robert Zemeckis,Joseph Gordon-Levitt,70,75,"57,807",35000000,10137502
+311,Kill the Messenger,2014,Oct,Biography,R,112,English,Michael Cuesta,Peter Landesman,Jeremy Renner,60,70,"30,149",5000000,2450846
+312,Noah,2014,Mar,Action,PG-13,138,English,Darren Aronofsky,Darren Aronofsky,Russell Crowe,68,58,"193,859",125000000,101160529
+313,Hot Pursuit,2015,May,Action,PG-13,87,English,Anne Fletcher,David Feeney,Reese Witherspoon,31,51,"30,216",35000000,34507079
+314,The Perfect Guy,2015,Sep,Drama,PG-13,100,English,David M. Rosenthal,Alan B. McElroy,Sanaa Lathan,36,54,"4,735",12000000,57017904
+315,300: Rise of an Empire,2014,Mar,Action,R,102,English,Noam Murro,Zack Snyder,Sullivan Stapleton,48,63,"214,091",110000000,106580051
+316,Pride and Prejudice and Zombies,2016,Feb,Action,PG-13,107,English,Burr Steers,Burr Steers,Lily James,45,62,"6,711",28000000,5324240
+317,Ride Along,2014,Jan,Action,PG-13,99,English,Tim Story,Greg Coolidge,Ice Cube,41,62,"67,807",25000000,134141530
+318,Crimson Peak,2015,Oct,Drama,R,119,English,Guillermo del Toro,Guillermo del Toro,Mia Wasikowska,66,67,"63,384",55000000,31056945
+319,13 Hours: The Secret Soldiers of Benghazi,2016,Jan,Action,R,144,English,Michael Bay,Chuck Hogan,John Krasinski,48,76,"9,803",50000000,47742896
+320,Paddington,2014,Jan,Comedy,PG,95,English,Paul King,Paul King,Tim Downie,77,72,"46,043",55000000,76223578
+321,Poltergeist,2015,Jun,Fantasy,PG,114,English,Tobe Hooper,Steven Spielberg,Craig T. Nelson,79,74,"99,989",35000000,47415690
+322,Blended,2014,May,Comedy,PG-13,117,English,Frank Coraci,Ivan Menchell,Adam Sandler,31,65,"82,134",40000000,45889191
+323,Lucy,2014,Jul,Action,R,89,English,Luc Besson,Luc Besson,Scarlett Johansson,61,64,"308,431",40000000,125480625
+324,Desert Dancer,2014,Apr,Biography,PG-13,104,English,Richard Raymond,Jon Croker,Nazanin Boniadi,49,59,"1,027",4000000,143653
+325,Serena,2014,Feb,Drama,R,109,English,Susanne Bier,Christopher Kyle,Jennifer Lawrence,36,54,"15,987",30000000,176305
+326,Insidious: Chapter 3,2015,Jun,Fantasy,PG-13,97,English,Leigh Whannell,Leigh Whannell,Dermot Mulroney,52,61,"45,417",10000000,52218558
+327,The Boy,2016,Jan,Horror,PG-13,97,English,William Brent Bell,Stacey Menear,Lauren Cohan,42,62,"7,356",10000000,30778587
+328,The Divergent Series: Allegiant,2016,Mar,Action,PG-13,121,English,":""Robert Schwentke",Noah Oppenheim,Shailene Woodley,N/A,N/A,N/A,115000000,
+329,Miracles from Heaven,2016,Mar,Drama,PG,109,English,Patricia Riggen,Christy Beam,Jennifer Garner,N/A,N/A,N/A,13000000,
+330,Midnight Special,2016,Mar,Adventure,PG-13,111,English,Jeff Nichols,Jeff Nichols,Michael Shannon,N/A,N/A,N/A,18000000,
+331,The Bronze,2016,Mar,Comedy,R,108,English,Bryan Buckley,Melissa Rauch,Melissa Rauch,N/A,N/A,N/A,3500000,
+332,The Program,2016,Mar,Biography,R,103,English,Stephen Frears,John Hodge,Ben Foster,N/A,N/A,N/A,1700000,
+333,My Golden Days,2016,Mar,Drama,R,123,English,Arnaud Desplechin,Arnaud Desplechin,Quentin Dolmaire,N/A,N/A,N/A,1700000,
+334,Batman v Superman: Dawn of Justice,2016,Mar,Action,PG-13,153,English,Zack Snyder,Chris Terrio,Ben Affleck,N/A,N/A,N/A,250000000,
